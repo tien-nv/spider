@@ -1,0 +1,3633 @@
+{
+    "Th\u1eeba Thi\u00ean-Hu\u1ebf": {
+        "A L\u01b0\u1edbi": {
+            "number_people": "47.115",
+            "area": "1.232,7",
+            "distribute": "34"
+        },
+        "Hu\u1ebf": {
+            "number_people": "339.822 (3/2010)",
+            "area": "70,99",
+            "distribute": "4.787"
+        },
+        "H\u01b0\u01a1ng Th\u1ee7y": {
+            "number_people": "96.525 (2/2010)",
+            "area": "458,1749",
+            "distribute": "211"
+        },
+        "H\u01b0\u01a1ng Tr\u00e0": {
+            "number_people": "118.354 (11/2011)",
+            "area": "518,534",
+            "distribute": "228"
+        },
+        "Nam \u0110\u00f4ng": {
+            "number_people": "22.566",
+            "area": "652",
+            "distribute": "35"
+        },
+        "Phong \u0110i\u1ec1n": {
+            "number_people": "88.090",
+            "area": "955,7",
+            "distribute": "92"
+        },
+        "Ph\u00fa L\u1ed9c": {
+            "number_people": "134.322",
+            "area": "729,6",
+            "distribute": "184"
+        },
+        "Ph\u00fa Vang": {
+            "number_people": "171.231 (5/2011)",
+            "area": "280,31",
+            "distribute": "611"
+        },
+        "Qu\u1ea3ng \u0110i\u1ec1n": {
+            "number_people": "82.811",
+            "area": "163,3",
+            "distribute": "514"
+        }
+    },
+    "Ki\u00ean Giang": {
+        "An Bi\u00ean": {
+            "number_people": "125.674",
+            "area": "400,3",
+            "distribute": "305"
+        },
+        "An Minh": {
+            "number_people": "115.062",
+            "area": "590,6",
+            "distribute": "195"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "148.313",
+            "area": "285,4",
+            "distribute": "520"
+        },
+        "Giang Th\u00e0nh": {
+            "number_people": "28.910 *",
+            "area": "407,44",
+            "distribute": "71"
+        },
+        "Gi\u1ed3ng Ri\u1ec1ng": {
+            "number_people": "211.496",
+            "area": "639,2",
+            "distribute": "331"
+        },
+        "G\u00f2 Quao": {
+            "number_people": "138.547",
+            "area": "439,5",
+            "distribute": "315"
+        },
+        "H\u00e0 Ti\u00ean": {
+            "number_people": "81.576",
+            "area": "100,49",
+            "distribute": "812"
+        },
+        "H\u00f2n \u0110\u1ea5t": {
+            "number_people": "166.860",
+            "area": "1.046,7",
+            "distribute": "159"
+        },
+        "Ki\u00ean H\u1ea3i": {
+            "number_people": "20.807",
+            "area": "26,2",
+            "distribute": "794"
+        },
+        "Ki\u00ean L\u01b0\u01a1ng": {
+            "number_people": "74.750",
+            "area": "472,9",
+            "distribute": "158"
+        },
+        "Ph\u00fa Qu\u1ed1c": {
+            "number_people": "91.241",
+            "area": "589,4",
+            "distribute": "155"
+        },
+        "R\u1ea1ch Gi\u00e1": {
+            "number_people": "226.316",
+            "area": "103,6",
+            "distribute": "2.184"
+        },
+        "T\u00e2n Hi\u1ec7p": {
+            "number_people": "142.405",
+            "area": "419,3",
+            "distribute": "339"
+        },
+        "U Minh Th\u01b0\u1ee3ng": {
+            "number_people": "67.764",
+            "area": "432,7",
+            "distribute": "156"
+        },
+        "V\u0129nh Thu\u1eadn": {
+            "number_people": "89.798",
+            "area": "394,8",
+            "distribute": "227"
+        }
+    },
+    "H\u1ea3i Ph\u00f2ng": {
+        "An D\u01b0\u01a1ng": {
+            "number_people": "174.400",
+            "area": "97,6",
+            "distribute": "1.647"
+        },
+        "An L\u00e3o": {
+            "number_people": "143.900",
+            "area": "114,9",
+            "distribute": "1.152"
+        },
+        "B\u1ea1ch Long V\u0129": {
+            "number_people": "902",
+            "area": "4,5",
+            "distribute": "200"
+        },
+        "C\u00e1t H\u1ea3i": {
+            "number_people": "29.676",
+            "area": "323,1",
+            "distribute": "92"
+        },
+        "D\u01b0\u01a1ng Kinh": {
+            "number_people": "48.700",
+            "area": "45,9",
+            "distribute": "1.061"
+        },
+        "\u0110\u1ed3 S\u01a1n": {
+            "number_people": "44.514",
+            "area": "42,4",
+            "distribute": "1.050"
+        },
+        "H\u1ea3i An": {
+            "number_people": "103.267",
+            "area": "104,9",
+            "distribute": "984"
+        },
+        "H\u1ed3ng B\u00e0ng": {
+            "number_people": "101.625",
+            "area": "14,4",
+            "distribute": "7.057"
+        },
+        "Ki\u1ebfn An": {
+            "number_people": "97.403",
+            "area": "29,5",
+            "distribute": "3.302"
+        },
+        "Ki\u1ebfn Th\u1ee5y": {
+            "number_people": "126.324",
+            "area": "107,5",
+            "distribute": "1.175"
+        },
+        "L\u00ea Ch\u00e2n": {
+            "number_people": "209.608",
+            "area": "11,8",
+            "distribute": "17.763"
+        },
+        "Ng\u00f4 Quy\u1ec1n": {
+            "number_people": "164.612",
+            "area": "11,2",
+            "distribute": "14.698"
+        },
+        "Th\u1ee7y Nguy\u00ean": {
+            "number_people": "303.094",
+            "area": "242,8",
+            "distribute": "1.248"
+        },
+        "Ti\u00ean L\u00e3ng": {
+            "number_people": "141.288",
+            "area": "191,2",
+            "distribute": "739"
+        },
+        "V\u0129nh B\u1ea3o": {
+            "number_people": "173.083",
+            "area": "180,5",
+            "distribute": "959"
+        }
+    },
+    "Gia Lai": {
+        "An Kh\u00ea": {
+            "number_people": "63.375",
+            "area": "199,1",
+            "distribute": "318"
+        },
+        "Ayun Pa": {
+            "number_people": "34.890",
+            "area": "287",
+            "distribute": "122"
+        },
+        "Ch\u01b0 P\u0103h": {
+            "number_people": "69.957 (12/2013)",
+            "area": "980,4",
+            "distribute": "71"
+        },
+        "Ch\u01b0 Pr\u00f4ng": {
+            "number_people": "97.685",
+            "area": "1.695,5",
+            "distribute": "58"
+        },
+        "Ch\u01b0 P\u01b0h": {
+            "number_people": "54.890 (8/2009)",
+            "area": "717",
+            "distribute": "77"
+        },
+        "Ch\u01b0 S\u00ea": {
+            "number_people": "94.389 (8/2009)",
+            "area": "643",
+            "distribute": "147"
+        },
+        "\u0110\u1eafk \u0110oa": {
+            "number_people": "103.923 (12/2013)",
+            "area": "988,7",
+            "distribute": "105"
+        },
+        "\u0110ak P\u01a1": {
+            "number_people": "41.173 (12/2013)",
+            "area": "503,7",
+            "distribute": "82"
+        },
+        "\u0110\u1ee9c C\u01a1": {
+            "number_people": "62.031",
+            "area": "723,1",
+            "distribute": "86"
+        },
+        "Ia Grai": {
+            "number_people": "88.613",
+            "area": "1.121,1",
+            "distribute": "79"
+        },
+        "Ia Pa": {
+            "number_people": "49.030",
+            "area": "868,5",
+            "distribute": "56"
+        },
+        "K'Bang": {
+            "number_people": "61.682",
+            "area": "1.841,2",
+            "distribute": "34"
+        },
+        "K\u00f4ng Chro": {
+            "number_people": "42.635",
+            "area": "1.441,9",
+            "distribute": "30"
+        },
+        "Kr\u00f4ng Pa": {
+            "number_people": "72.397",
+            "area": "1.628,1",
+            "distribute": "44"
+        },
+        "Mang Yang": {
+            "number_people": "53.160",
+            "area": "1.126,1",
+            "distribute": "47"
+        },
+        "Ph\u00fa Thi\u1ec7n": {
+            "number_people": "70.881",
+            "area": "501,9",
+            "distribute": "141"
+        },
+        "Pleiku": {
+            "number_people": "208.634",
+            "area": "262",
+            "distribute": "796"
+        }
+    },
+    "B\u00ecnh \u0110\u1ecbnh": {
+        "An L\u00e3o": {
+            "number_people": "24.200",
+            "area": "690,4",
+            "distribute": "35"
+        },
+        "An Nh\u01a1n": {
+            "number_people": "194.123 (11/2013)",
+            "area": "242,6",
+            "distribute": "804"
+        },
+        "Ho\u00e0i \u00c2n": {
+            "number_people": "84.437",
+            "area": "744,1",
+            "distribute": "113"
+        },
+        "Ho\u00e0i Nh\u01a1n": {
+            "number_people": "212.063",
+            "area": "420,082",
+            "distribute": "504"
+        },
+        "Ph\u00f9 C\u00e1t": {
+            "number_people": "188.042",
+            "area": "678,5",
+            "distribute": "274"
+        },
+        "Ph\u00f9 M\u1ef9": {
+            "number_people": "169.304",
+            "area": "548,9",
+            "distribute": "308"
+        },
+        "Quy Nh\u01a1n": {
+            "number_people": "311.535",
+            "area": "284,3",
+            "distribute": "1.098"
+        },
+        "T\u00e2y S\u01a1n": {
+            "number_people": "123.309",
+            "area": "688",
+            "distribute": "179"
+        },
+        "Tuy Ph\u01b0\u1edbc": {
+            "number_people": "179.985",
+            "area": "216,8",
+            "distribute": "830"
+        },
+        "V\u00e2n Canh": {
+            "number_people": "24.661",
+            "area": "798",
+            "distribute": "31"
+        },
+        "V\u0129nh Th\u1ea1nh": {
+            "number_people": "27.978",
+            "area": "710",
+            "distribute": "39"
+        }
+    },
+    "An Giang": {
+        "An Ph\u00fa": {
+            "number_people": "191.328 (8/2009)",
+            "area": "226,4",
+            "distribute": "845"
+        },
+        "Ch\u00e2u \u0110\u1ed1c": {
+            "number_people": "111.267",
+            "area": "105,3",
+            "distribute": "1494"
+        },
+        "Ch\u00e2u Ph\u00fa": {
+            "number_people": "245.102",
+            "area": "451",
+            "distribute": "543"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "169.723",
+            "area": "355,1",
+            "distribute": "478"
+        },
+        "Ch\u1ee3 M\u1edbi": {
+            "number_people": "345.200",
+            "area": "369,6",
+            "distribute": "934"
+        },
+        "Long Xuy\u00ean": {
+            "number_people": "285.379",
+            "area": "115,4",
+            "distribute": "2.415"
+        },
+        "Ph\u00fa T\u00e2n": {
+            "number_people": "221.059 (8/2009)",
+            "area": "314,223",
+            "distribute": "704"
+        },
+        "T\u00e2n Ch\u00e2u": {
+            "number_people": "171.888",
+            "area": "175,6846",
+            "distribute": "1.048"
+        },
+        "Tho\u1ea1i S\u01a1n": {
+            "number_people": "180.551",
+            "area": "468,7",
+            "distribute": "385"
+        },
+        "T\u1ecbnh Bi\u00ean": {
+            "number_people": "120.781",
+            "area": "355,5",
+            "distribute": "340"
+        },
+        "Tri T\u00f4n": {
+            "number_people": "133.109",
+            "area": "600,4",
+            "distribute": "222"
+        }
+    },
+    "Ngh\u1ec7 An": {
+        "Anh S\u01a1n": {
+            "number_people": "99.358",
+            "area": "603",
+            "distribute": "165"
+        },
+        "Con Cu\u00f4ng": {
+            "number_people": "64.240",
+            "area": "1.744,5",
+            "distribute": "37"
+        },
+        "C\u1eeda L\u00f2": {
+            "number_people": "70.398 (9/2010)",
+            "area": "27,8",
+            "distribute": "2.531"
+        },
+        "Di\u1ec5n Ch\u00e2u": {
+            "number_people": "266.447",
+            "area": "305,9",
+            "distribute": "871"
+        },
+        "\u0110\u00f4 L\u01b0\u01a1ng": {
+            "number_people": "183.584",
+            "area": "354,3",
+            "distribute": "518"
+        },
+        "Ho\u00e0ng Mai": {
+            "number_people": "105.105 (4/2013)",
+            "area": "169,7488",
+            "distribute": "619"
+        },
+        "H\u01b0ng Nguy\u00ean": {
+            "number_people": "110.451",
+            "area": "159,2",
+            "distribute": "694"
+        },
+        "K\u1ef3 S\u01a1n": {
+            "number_people": "69.524",
+            "area": "2.095,1",
+            "distribute": "33"
+        },
+        "Nam \u0110\u00e0n": {
+            "number_people": "149.826",
+            "area": "293,9",
+            "distribute": "510"
+        },
+        "Nghi L\u1ed9c": {
+            "number_people": "184.148",
+            "area": "348,1",
+            "distribute": "529"
+        },
+        "Ngh\u0129a \u0110\u00e0n": {
+            "number_people": "130.140 (10/2011)",
+            "area": "617,848",
+            "distribute": "211"
+        },
+        "Qu\u1ebf Phong": {
+            "number_people": "62.129",
+            "area": "1.895,4",
+            "distribute": "33"
+        },
+        "Qu\u1ef3 Ch\u00e2u": {
+            "number_people": "53.179 (5/2010)",
+            "area": "1.057,6563",
+            "distribute": "50"
+        },
+        "Qu\u1ef3 H\u1ee3p": {
+            "number_people": "116.554",
+            "area": "941,7",
+            "distribute": "124"
+        },
+        "Qu\u1ef3nh L\u01b0u": {
+            "number_people": "279.977",
+            "area": "437,6287*",
+            "distribute": "640"
+        },
+        "T\u00e2n K\u1ef3": {
+            "number_people": "129.031",
+            "area": "725,6",
+            "distribute": "178"
+        },
+        "Th\u00e1i H\u00f2a": {
+            "number_people": "59.962",
+            "area": "135,1",
+            "distribute": "444"
+        },
+        "Thanh Ch\u01b0\u01a1ng": {
+            "number_people": "248.952 (10/2011)",
+            "area": "1.128,9065",
+            "distribute": "220"
+        },
+        "T\u01b0\u01a1ng D\u01b0\u01a1ng": {
+            "number_people": "72.405",
+            "area": "2.811,9",
+            "distribute": "26"
+        },
+        "Vinh": {
+            "number_people": "315.421",
+            "area": "105",
+            "distribute": "2.893"
+        },
+        "Y\u00ean Th\u00e0nh": {
+            "number_people": "257.747",
+            "area": "549,9",
+            "distribute": "468"
+        }
+    },
+    "H\u01b0ng Y\u00ean": {
+        "\u00c2n Thi": {
+            "number_people": "127.788",
+            "area": "128,3",
+            "distribute": "996"
+        },
+        "H\u01b0ng Y\u00ean": {
+            "number_people": "147.275 (8/2013)",
+            "area": "73,4207",
+            "distribute": "2.006"
+        },
+        "Kho\u00e1i Ch\u00e2u": {
+            "number_people": "181.403",
+            "area": "130,9",
+            "distribute": "1.386"
+        },
+        "Kim \u0110\u1ed9ng": {
+            "number_people": "111.417 (8/2013)",
+            "area": "102,8530",
+            "distribute": "1.083"
+        },
+        "M\u1ef9 H\u00e0o": {
+            "number_people": "93.374",
+            "area": "79,1",
+            "distribute": "1.180"
+        },
+        "Ph\u00f9 C\u1eeb": {
+            "number_people": "77.386",
+            "area": "93,9",
+            "distribute": "824"
+        },
+        "Ti\u00ean L\u1eef": {
+            "number_people": "83.039 (8/2013)",
+            "area": "78,415",
+            "distribute": "1.059"
+        },
+        "V\u0103n Giang": {
+            "number_people": "99.137",
+            "area": "71,8",
+            "distribute": "1.381"
+        },
+        "V\u0103n L\u00e2m": {
+            "number_people": "112.966",
+            "area": "74,4",
+            "distribute": "1.518"
+        },
+        "Y\u00ean M\u1ef9": {
+            "number_people": "133.730",
+            "area": "91",
+            "distribute": "1.470"
+        }
+    },
+    "B\u1eafc K\u1ea1n": {
+        "Ba B\u1ec3": {
+            "number_people": "46.350",
+            "area": "684,1",
+            "distribute": "68"
+        },
+        "B\u1ea1ch Th\u00f4ng": {
+            "number_people": "30.216",
+            "area": "546,5",
+            "distribute": "55"
+        },
+        "B\u1eafc K\u1ea1n": {
+            "number_people": "37.180",
+            "area": "136,9",
+            "distribute": "272"
+        },
+        "Ch\u1ee3 \u0110\u1ed3n": {
+            "number_people": "48.122",
+            "area": "911,1",
+            "distribute": "53"
+        },
+        "Ch\u1ee3 M\u1edbi": {
+            "number_people": "36.747",
+            "area": "606,5",
+            "distribute": "61"
+        },
+        "Na R\u00ec": {
+            "number_people": "37.472",
+            "area": "853",
+            "distribute": "44"
+        },
+        "Ng\u00e2n S\u01a1n": {
+            "number_people": "27.680",
+            "area": "645,9",
+            "distribute": "73"
+        },
+        "P\u00e1c N\u1eb7m": {
+            "number_people": "30.059",
+            "area": "475,4",
+            "distribute": "63"
+        }
+    },
+    "Qu\u1ea3ng Ninh": {
+        "Ba Ch\u1ebd": {
+            "number_people": "18.877",
+            "area": "608,6",
+            "distribute": "31"
+        },
+        "B\u00ecnh Li\u00eau": {
+            "number_people": "27.629",
+            "area": "475",
+            "distribute": "58"
+        },
+        "C\u1ea9m Ph\u1ea3": {
+            "number_people": "195.800 (2/2012)",
+            "area": "486,5",
+            "distribute": "403"
+        },
+        "C\u00f4 T\u00f4": {
+            "number_people": "4.985",
+            "area": "47,4",
+            "distribute": "105"
+        },
+        "\u0110\u1ea7m H\u00e0": {
+            "number_people": "33.219",
+            "area": "412,4",
+            "distribute": "81"
+        },
+        "\u0110\u00f4ng Tri\u1ec1u": {
+            "number_people": "156.627",
+            "area": "397,2",
+            "distribute": "394"
+        },
+        "H\u1ea1 Long": {
+            "number_people": "300.267",
+            "area": "1.119,12",
+            "distribute": "268"
+        },
+        "H\u1ea3i H\u00e0": {
+            "number_people": "52.729",
+            "area": "526,1",
+            "distribute": "100"
+        },
+        "M\u00f3ng C\u00e1i": {
+            "number_people": "80.000 (2/2010)",
+            "area": "516,60",
+            "distribute": "155"
+        },
+        "Qu\u1ea3ng Y\u00ean": {
+            "number_people": "131.392",
+            "area": "319,2",
+            "distribute": "412"
+        },
+        "Ti\u00ean Y\u00ean": {
+            "number_people": "44.352",
+            "area": "437,6",
+            "distribute": "101"
+        },
+        "U\u00f4ng B\u00ed": {
+            "number_people": "151.072 (8/2011)",
+            "area": "256,3077",
+            "distribute": "589"
+        },
+        "V\u00e2n \u0110\u1ed3n": {
+            "number_people": "40.204",
+            "area": "553,2",
+            "distribute": "72.7"
+        }
+    },
+    "H\u00e0 N\u1ed9i": {
+        "Ba \u0110\u00ecnh": {
+            "number_people": "225.910",
+            "area": "9,3",
+            "distribute": "24.291"
+        },
+        "Ba V\u00ec": {
+            "number_people": "246.120",
+            "area": "425,3",
+            "distribute": "579"
+        },
+        "B\u1eafc T\u1eeb Li\u00eam": {
+            "number_people": "320.414 (12/2013)",
+            "area": "43,4",
+            "distribute": "7.391"
+        },
+        "C\u1ea7u Gi\u1ea5y": {
+            "number_people": "225.643",
+            "area": "12",
+            "distribute": "18.804"
+        },
+        "Ch\u01b0\u01a1ng M\u1ef9": {
+            "number_people": "286.359",
+            "area": "232,3",
+            "distribute": "1.233"
+        },
+        "\u0110an Ph\u01b0\u1ee3ng": {
+            "number_people": "142.480",
+            "area": "76,6",
+            "distribute": "1.860"
+        },
+        "\u0110\u00f4ng Anh": {
+            "number_people": "333.337",
+            "area": "182,1",
+            "distribute": "1.831"
+        },
+        "\u0110\u1ed1ng \u0110a": {
+            "number_people": "370.117",
+            "area": "10,2",
+            "distribute": "36.286"
+        },
+        "Gia L\u00e2m": {
+            "number_people": "251.735",
+            "area": "114",
+            "distribute": "2.208"
+        },
+        "H\u00e0 \u0110\u00f4ng": {
+            "number_people": "233.126",
+            "area": "47,9",
+            "distribute": "4.867"
+        },
+        "Hai B\u00e0 Tr\u01b0ng": {
+            "number_people": "295.726",
+            "area": "10,1",
+            "distribute": "29.280"
+        },
+        "Ho\u00e0i \u0110\u1ee9c": {
+            "number_people": "191.106",
+            "area": "82,4",
+            "distribute": "2.319"
+        },
+        "Ho\u00e0n Ki\u1ebfm": {
+            "number_people": "147.334",
+            "area": "5,3",
+            "distribute": "27.799"
+        },
+        "Ho\u00e0ng Mai": {
+            "number_people": "335.509",
+            "area": "40,2",
+            "distribute": "8.844"
+        },
+        "Long Bi\u00ean": {
+            "number_people": "276.913",
+            "area": "60,4",
+            "distribute": "4.500"
+        },
+        "M\u00ea Linh": {
+            "number_people": "191.490",
+            "area": "141,6",
+            "distribute": "1.352"
+        },
+        "M\u1ef9 \u0110\u1ee9c": {
+            "number_people": "169.999",
+            "area": "230",
+            "distribute": "739"
+        },
+        "Nam T\u1eeb Li\u00eam": {
+            "number_people": "232.894 (12/2013)",
+            "area": "32,2736",
+            "distribute": "7.216"
+        },
+        "Ph\u00fa Xuy\u00ean": {
+            "number_people": "181.388",
+            "area": "171,1",
+            "distribute": "1.060"
+        },
+        "Ph\u00fac Th\u1ecd": {
+            "number_people": "159.484",
+            "area": "117,1",
+            "distribute": "1.362"
+        },
+        "Qu\u1ed1c Oai": {
+            "number_people": "160.190",
+            "area": "147",
+            "distribute": "1.090"
+        },
+        "S\u00f3c S\u01a1n": {
+            "number_people": "282.536",
+            "area": "306,5",
+            "distribute": "922"
+        },
+        "S\u01a1n T\u00e2y": {
+            "number_people": "125.749",
+            "area": "113,5",
+            "distribute": "1.108"
+        },
+        "T\u00e2y H\u1ed3": {
+            "number_people": "130.639",
+            "area": "24",
+            "distribute": "5.443"
+        },
+        "Th\u1ea1ch Th\u1ea5t": {
+            "number_people": "177.545",
+            "area": "202,5",
+            "distribute": "877"
+        },
+        "Thanh Oai": {
+            "number_people": "167.250",
+            "area": "123,8",
+            "distribute": "1.351"
+        },
+        "Thanh Tr\u00ec": {
+            "number_people": "198.706",
+            "area": "63,17",
+            "distribute": "3.146"
+        },
+        "Thanh Xu\u00e2n": {
+            "number_people": "223.694",
+            "area": "9,1",
+            "distribute": "24.582"
+        },
+        "Th\u01b0\u1eddng T\u00edn": {
+            "number_people": "219.246",
+            "area": "127,7",
+            "distribute": "1.717"
+        },
+        "\u1ee8ng H\u00f2a": {
+            "number_people": "182.008",
+            "area": "183,7",
+            "distribute": "991"
+        }
+    },
+    "Qu\u1ea3ng B\u00ecnh": {
+        "Ba \u0110\u1ed3n": {
+            "number_people": "115.196 (12/2013)",
+            "area": "163,2",
+            "distribute": "706"
+        },
+        "B\u1ed1 Tr\u1ea1ch": {
+            "number_people": "178.464",
+            "area": "2.124,2",
+            "distribute": "84"
+        },
+        "\u0110\u1ed3ng H\u1edbi": {
+            "number_people": "111.141",
+            "area": "155,7",
+            "distribute": "714"
+        },
+        "L\u1ec7 Th\u1ee7y": {
+            "number_people": "140.274",
+            "area": "1.416,1",
+            "distribute": "99"
+        },
+        "Minh H\u00f3a": {
+            "number_people": "46.862",
+            "area": "1.412,7",
+            "distribute": "33"
+        },
+        "Qu\u1ea3ng Ninh": {
+            "number_people": "86.598",
+            "area": "1.191,7",
+            "distribute": "73"
+        },
+        "Qu\u1ea3ng Tr\u1ea1ch": {
+            "number_people": "95.542 (12/2013)",
+            "area": "400,7022",
+            "distribute": "238"
+        },
+        "Tuy\u00ean H\u00f3a": {
+            "number_people": "77.608",
+            "area": "1.149,4",
+            "distribute": "68"
+        }
+    },
+    "Qu\u1ea3ng Ng\u00e3i": {
+        "Ba T\u01a1": {
+            "number_people": "51.468",
+            "area": "1.136,7",
+            "distribute": "45"
+        },
+        "B\u00ecnh S\u01a1n": {
+            "number_people": "174.939",
+            "area": "463,9",
+            "distribute": "377"
+        },
+        "\u0110\u1ee9c Ph\u1ed5": {
+            "number_people": "150.927",
+            "area": "372,76",
+            "distribute": "405"
+        },
+        "L\u00fd S\u01a1n": {
+            "number_people": "18.223",
+            "area": "10",
+            "distribute": "1.822"
+        },
+        "Minh Long": {
+            "number_people": "15.498",
+            "area": "216,4",
+            "distribute": "72"
+        },
+        "M\u1ed9 \u0110\u1ee9c": {
+            "number_people": "126.059",
+            "area": "212,2",
+            "distribute": "594"
+        },
+        "Ngh\u0129a H\u00e0nh": {
+            "number_people": "89.304",
+            "area": "234",
+            "distribute": "382"
+        },
+        "Qu\u1ea3ng Ng\u00e3i": {
+            "number_people": "260.252 (12/2013)",
+            "area": "160,1534",
+            "distribute": "1.625"
+        },
+        "S\u01a1n H\u00e0": {
+            "number_people": "68.345",
+            "area": "750",
+            "distribute": "91"
+        },
+        "S\u01a1n T\u00e2y": {
+            "number_people": "18.092",
+            "area": "382,2",
+            "distribute": "47"
+        },
+        "S\u01a1n T\u1ecbnh": {
+            "number_people": "95.597 (12/2013)",
+            "area": "243,4131",
+            "distribute": "393"
+        },
+        "Tr\u00e0 B\u1ed3ng": {
+            "number_people": "53.379",
+            "area": "760,34",
+            "distribute": "70"
+        },
+        "T\u01b0 Ngh\u0129a": {
+            "number_people": "128.333 (12/2013)",
+            "area": "205,3624",
+            "distribute": "625"
+        }
+    },
+    "B\u1ebfn Tre": {
+        "Ba Tri": {
+            "number_people": "187.398",
+            "area": "355",
+            "distribute": "528"
+        },
+        "B\u1ebfn Tre": {
+            "number_people": "150.530 (4/2013)",
+            "area": "71,1",
+            "distribute": "2.117"
+        },
+        "B\u00ecnh \u0110\u1ea1i": {
+            "number_people": "132.193",
+            "area": "400,6",
+            "distribute": "330"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "157.138 (4/2013)",
+            "area": "224,8",
+            "distribute": "699"
+        },
+        "Ch\u1ee3 L\u00e1ch": {
+            "number_people": "113.716 *",
+            "area": "168,34",
+            "distribute": "676"
+        },
+        "Gi\u1ed3ng Tr\u00f4m": {
+            "number_people": "168.744",
+            "area": "311,4",
+            "distribute": "542"
+        },
+        "M\u1ecf C\u00e0y B\u1eafc": {
+            "number_people": "124.377 *",
+            "area": "154,64",
+            "distribute": "804"
+        },
+        "M\u1ecf C\u00e0y Nam": {
+            "number_people": "166.474 *",
+            "area": "219,89",
+            "distribute": "757"
+        },
+        "Th\u1ea1nh Ph\u00fa": {
+            "number_people": "128.116",
+            "area": "411,8",
+            "distribute": "311"
+        }
+    },
+    "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u": {
+        "B\u00e0 R\u1ecba": {
+            "number_people": "122.424 (8/2012)",
+            "area": "91,5",
+            "distribute": "1.338"
+        },
+        "Ch\u00e2u \u0110\u1ee9c": {
+            "number_people": "143.306",
+            "area": "420,6",
+            "distribute": "341"
+        },
+        "C\u00f4n \u0110\u1ea3o": {
+            "number_people": "5.127",
+            "area": "75,2",
+            "distribute": "68"
+        },
+        "\u0110\u1ea5t \u0110\u1ecf": {
+            "number_people": "69.502",
+            "area": "189,6",
+            "distribute": "367"
+        },
+        "Long \u0110i\u1ec1n": {
+            "number_people": "125.179",
+            "area": "77",
+            "distribute": "1.626"
+        },
+        "Ph\u00fa M\u1ef9": {
+            "number_people": "128.205",
+            "area": "337,6",
+            "distribute": "380"
+        },
+        "V\u0169ng T\u00e0u": {
+            "number_people": "322.150",
+            "area": "140,3",
+            "distribute": "2.111"
+        },
+        "Xuy\u00ean M\u1ed9c": {
+            "number_people": "134.401",
+            "area": "642,2",
+            "distribute": "214"
+        }
+    },
+    "Thanh H\u00f3a": {
+        "B\u00e1 Th\u01b0\u1edbc": {
+            "number_people": "96.360",
+            "area": "777,2",
+            "distribute": "124"
+        },
+        "B\u1ec9m S\u01a1n": {
+            "number_people": "59.747 ",
+            "area": "66,9",
+            "distribute": "893"
+        },
+        "C\u1ea9m Th\u1ee7y": {
+            "number_people": "111.999 (10/2009)",
+            "area": "424,1",
+            "distribute": "264"
+        },
+        "\u0110\u00f4ng S\u01a1n": {
+            "number_people": "74.217*",
+            "area": "82,41",
+            "distribute": "901"
+        },
+        "H\u00e0 Trung": {
+            "number_people": "108.049",
+            "area": "244,5",
+            "distribute": "442"
+        },
+        "H\u1eadu L\u1ed9c": {
+            "number_people": "165.742",
+            "area": "143,7",
+            "distribute": "1.153"
+        },
+        "Ho\u1eb1ng H\u00f3a": {
+            "number_people": "250.534",
+            "area": "224,84",
+            "distribute": "1.114"
+        },
+        "Lang Ch\u00e1nh": {
+            "number_people": "45.346",
+            "area": "586,6",
+            "distribute": "77"
+        },
+        "M\u01b0\u1eddng L\u00e1t": {
+            "number_people": "33.182",
+            "area": "808,7",
+            "distribute": "41"
+        },
+        "Nga S\u01a1n": {
+            "number_people": "135.832",
+            "area": "158,3",
+            "distribute": "858"
+        },
+        "Nghi S\u01a1n": {
+            "number_people": "214.665",
+            "area": "458,3",
+            "distribute": "468"
+        },
+        "Ng\u1ecdc L\u1eb7c": {
+            "number_people": "132.870 (10/2009)",
+            "area": "485,2815",
+            "distribute": "274"
+        },
+        "Nh\u01b0 Thanh": {
+            "number_people": "84.763",
+            "area": "567,1",
+            "distribute": "149"
+        },
+        "Nh\u01b0 Xu\u00e2n": {
+            "number_people": "64.319",
+            "area": "717,4",
+            "distribute": "90"
+        },
+        "N\u00f4ng C\u1ed1ng": {
+            "number_people": "182.898",
+            "area": "286,7",
+            "distribute": "638"
+        },
+        "Quan H\u00f3a": {
+            "number_people": "43.789",
+            "area": "996,5",
+            "distribute": "44"
+        },
+        "Quan S\u01a1n": {
+            "number_people": "35.435",
+            "area": "943,5",
+            "distribute": "38"
+        },
+        "Qu\u1ea3ng X\u01b0\u01a1ng": {
+            "number_people": "227.971",
+            "area": "171",
+            "distribute": "1.333"
+        },
+        "S\u1ea7m S\u01a1n": {
+            "number_people": "60.913 (12/2009)",
+            "area": "45",
+            "distribute": "1.354"
+        },
+        "Th\u1ea1ch Th\u00e0nh": {
+            "number_people": "136.221",
+            "area": "558,9",
+            "distribute": "244"
+        },
+        "Thanh H\u00f3a": {
+            "number_people": "350.035",
+            "area": "146,7707",
+            "distribute": "2.680"
+        },
+        "Thi\u1ec7u H\u00f3a": {
+            "number_people": "152.782",
+            "area": "160,68",
+            "distribute": "951"
+        },
+        "Th\u1ecd Xu\u00e2n": {
+            "number_people": "233.752 (10/2009)",
+            "area": "295,885",
+            "distribute": "790"
+        },
+        "Th\u01b0\u1eddng Xu\u00e2n": {
+            "number_people": "83.218",
+            "area": "1.113,2",
+            "distribute": "75"
+        },
+        "Tri\u1ec7u S\u01a1n": {
+            "number_people": "195.566",
+            "area": "292,3",
+            "distribute": "669"
+        },
+        "V\u0129nh L\u1ed9c": {
+            "number_people": "80.348",
+            "area": "158",
+            "distribute": "508"
+        },
+        "Y\u00ean \u0110\u1ecbnh": {
+            "number_people": "171.235 (10/2009)",
+            "area": "227,8309",
+            "distribute": "752"
+        }
+    },
+    "Ninh Thu\u1eadn": {
+        "B\u00e1c \u00c1i": {
+            "number_people": "24.304",
+            "area": "1.027,5",
+            "distribute": "24"
+        },
+        "Ninh H\u1ea3i": {
+            "number_people": "89.420",
+            "area": "253,9",
+            "distribute": "352"
+        },
+        "Ninh Ph\u01b0\u1edbc": {
+            "number_people": "135.146 (6/2009)",
+            "area": "341,0337",
+            "distribute": "396"
+        },
+        "Ninh S\u01a1n": {
+            "number_people": "71.432",
+            "area": "771,3",
+            "distribute": "93"
+        },
+        "Phan Rang-Th\u00e1p Ch\u00e0m": {
+            "number_people": "161.730",
+            "area": "78,9",
+            "distribute": "2.050"
+        },
+        "Thu\u1eadn B\u1eafc": {
+            "number_people": "37.769",
+            "area": "319,2",
+            "distribute": "118"
+        },
+        "Thu\u1eadn Nam": {
+            "number_people": "54.768 (6/2009)",
+            "area": "564,5262",
+            "distribute": "97"
+        }
+    },
+    "B\u1ea1c Li\u00eau": {
+        "B\u1ea1c Li\u00eau": {
+            "number_people": "190.045 (2014)",
+            "area": "175,4",
+            "distribute": "1.077"
+        },
+        "\u0110\u00f4ng H\u1ea3i": {
+            "number_people": "143.590",
+            "area": "561,6",
+            "distribute": "256"
+        },
+        "Gi\u00e1 Rai": {
+            "number_people": "137.249",
+            "area": "354,668",
+            "distribute": "398"
+        },
+        "Ho\u00e0 B\u00ecnh": {
+            "number_people": "106.792",
+            "area": "411,8",
+            "distribute": "259"
+        },
+        "H\u1ed3ng D\u00e2n": {
+            "number_people": "105.177",
+            "area": "423,6",
+            "distribute": "248"
+        },
+        "Ph\u01b0\u1edbc Long": {
+            "number_people": "117.700",
+            "area": "404,8",
+            "distribute": "291"
+        },
+        "V\u0129nh L\u1ee3i": {
+            "number_people": "98.155",
+            "area": "249,4",
+            "distribute": "394"
+        }
+    },
+    "Cao B\u1eb1ng": {
+        "B\u1ea3o L\u1ea1c": {
+            "number_people": "49.362",
+            "area": "918",
+            "distribute": "54"
+        },
+        "B\u1ea3o L\u00e2m": {
+            "number_people": "55.936",
+            "area": "913,4",
+            "distribute": "61"
+        },
+        "Cao B\u1eb1ng": {
+            "number_people": "84.421 (9/2012)",
+            "area": "107,6",
+            "distribute": "784"
+        },
+        "H\u00e0 Qu\u1ea3ng": {
+            "number_people": "59.467",
+            "area": "810,96",
+            "distribute": "73"
+        },
+        "H\u1ea1 Lang": {
+            "number_people": "25.294",
+            "area": "463,4",
+            "distribute": "55"
+        },
+        "H\u00f2a An": {
+            "number_people": "55.730",
+            "area": "609,5208",
+            "distribute": "91"
+        },
+        "Nguy\u00ean B\u00ecnh": {
+            "number_people": "39.420",
+            "area": "841",
+            "distribute": "47"
+        },
+        "Qu\u1ea3ng H\u00f2a": {
+            "number_people": "66.620",
+            "area": "668,95",
+            "distribute": "100"
+        },
+        "Th\u1ea1ch An": {
+            "number_people": "30.563",
+            "area": "690,5",
+            "distribute": "44"
+        },
+        "Tr\u00f9ng Kh\u00e1nh": {
+            "number_people": "70.424",
+            "area": "688,01",
+            "distribute": "102"
+        }
+    },
+    "L\u00e2m \u0110\u1ed3ng": {
+        "B\u1ea3o L\u00e2m": {
+            "number_people": "109.236",
+            "area": "1.457,1",
+            "distribute": "75"
+        },
+        "B\u1ea3o L\u1ed9c": {
+            "number_people": "153.362 (4/2010)",
+            "area": "232,6",
+            "distribute": "659"
+        },
+        "C\u00e1t Ti\u00ean": {
+            "number_people": "38.288 (12/2013)",
+            "area": "426,6",
+            "distribute": "90"
+        },
+        "Di Linh": {
+            "number_people": "160.830 (12/2013)",
+            "area": "1.614,6",
+            "distribute": "99"
+        },
+        "\u0110\u00e0 L\u1ea1t": {
+            "number_people": "205.287",
+            "area": "393,3",
+            "distribute": "522"
+        },
+        "\u0110\u1ea1 Huoai": {
+            "number_people": "33.450",
+            "area": "489,6",
+            "distribute": "68"
+        },
+        "\u0110\u1ea1 T\u1ebbh": {
+            "number_people": "43.810",
+            "area": "523,7",
+            "distribute": "84"
+        },
+        "\u0110am R\u00f4ng": {
+            "number_people": "38.407",
+            "area": "892,2",
+            "distribute": "43"
+        },
+        "\u0110\u01a1n D\u01b0\u01a1ng": {
+            "number_people": "93.702",
+            "area": "611,6",
+            "distribute": "153"
+        },
+        "\u0110\u1ee9c Tr\u1ecdng": {
+            "number_people": "166.393",
+            "area": "901,8",
+            "distribute": "184"
+        },
+        "L\u1ea1c D\u01b0\u01a1ng": {
+            "number_people": "20.905 (12/2013)",
+            "area": "1.312,5284",
+            "distribute": "16"
+        },
+        "L\u00e2m H\u00e0": {
+            "number_people": "137.690",
+            "area": "978,5",
+            "distribute": "141"
+        }
+    },
+    "L\u00e0o Cai": {
+        "B\u1ea3o Th\u1eafng": {
+            "number_people": "103.262",
+            "area": "651,98",
+            "distribute": "158"
+        },
+        "B\u1ea3o Y\u00ean": {
+            "number_people": "76.415",
+            "area": "820,9",
+            "distribute": "93"
+        },
+        "B\u00e1t X\u00e1t": {
+            "number_people": "74.388",
+            "area": "1.035,51",
+            "distribute": "72"
+        },
+        "B\u1eafc H\u00e0": {
+            "number_people": "53.587",
+            "area": "681,8",
+            "distribute": "79"
+        },
+        "L\u00e0o Cai": {
+            "number_people": "130.671",
+            "area": "282,13",
+            "distribute": "463"
+        },
+        "M\u01b0\u1eddng Kh\u01b0\u01a1ng": {
+            "number_people": "51.993 (11/2010)",
+            "area": "556,1453",
+            "distribute": "93"
+        },
+        "Sa Pa": {
+            "number_people": "61.498",
+            "area": "681,37",
+            "distribute": "120"
+        },
+        "Si Ma Cai": {
+            "number_people": "31.323",
+            "area": "234,9",
+            "distribute": "133"
+        },
+        "V\u0103n B\u00e0n": {
+            "number_people": "79.220",
+            "area": "1.426,1",
+            "distribute": "56"
+        }
+    },
+    "B\u00ecnh D\u01b0\u01a1ng": {
+        "B\u00e0u B\u00e0ng": {
+            "number_people": "82.024 (12/2013)",
+            "area": "339,2",
+            "distribute": "242"
+        },
+        "B\u1eafc T\u00e2n Uy\u00ean": {
+            "number_people": "58.439 (12/2013)",
+            "area": "400,9",
+            "distribute": "146"
+        },
+        "B\u1ebfn C\u00e1t": {
+            "number_people": "203.420 (12/2013)",
+            "area": "234,4",
+            "distribute": "868"
+        },
+        "D\u1ea7u Ti\u1ebfng": {
+            "number_people": "115.780",
+            "area": "721,4",
+            "distribute": "160"
+        },
+        "D\u0129 An": {
+            "number_people": "403.760",
+            "area": "60,10",
+            "distribute": "6.718"
+        },
+        "Ph\u00fa Gi\u00e1o": {
+            "number_people": "83.555",
+            "area": "541,5",
+            "distribute": "154"
+        },
+        "T\u00e2n Uy\u00ean": {
+            "number_people": "190.564 (12/2013)",
+            "area": "92,4920",
+            "distribute": "2.060"
+        },
+        "Th\u1ee7 D\u1ea7u M\u1ed9t": {
+            "number_people": "284.181",
+            "area": "118,67",
+            "distribute": "2.230"
+        },
+        "Thu\u1eadn An": {
+            "number_people": "508.433",
+            "area": "83,71",
+            "distribute": "6.074"
+        }
+    },
+    "B\u00ecnh Thu\u1eadn": {
+        "B\u1eafc B\u00ecnh": {
+            "number_people": "116.901",
+            "area": "1.825,3",
+            "distribute": "64"
+        },
+        "\u0110\u1ee9c Linh": {
+            "number_people": "125.033",
+            "area": "535,8",
+            "distribute": "233"
+        },
+        "H\u00e0m T\u00e2n": {
+            "number_people": "69.487",
+            "area": "738,6",
+            "distribute": "94"
+        },
+        "H\u00e0m Thu\u1eadn B\u1eafc": {
+            "number_people": "167.646",
+            "area": "1.282,5",
+            "distribute": "131"
+        },
+        "H\u00e0m Thu\u1eadn Nam": {
+            "number_people": "98.632",
+            "area": "1.051,8",
+            "distribute": "94"
+        },
+        "La Gi": {
+            "number_people": "104.525",
+            "area": "182,8",
+            "distribute": "571"
+        },
+        "Phan Thi\u1ebft": {
+            "number_people": "216.327",
+            "area": "206,5",
+            "distribute": "1.048"
+        },
+        "Ph\u00fa Qu\u00fd": {
+            "number_people": "25.738",
+            "area": "16,4",
+            "distribute": "1.569"
+        },
+        "T\u00e1nh Linh": {
+            "number_people": "102.026",
+            "area": "1.174,2",
+            "distribute": "87"
+        },
+        "Tuy Phong": {
+            "number_people": "140.708",
+            "area": "795,4",
+            "distribute": "177"
+        }
+    },
+    "B\u1eafc Giang": {
+        "B\u1eafc Giang": {
+            "number_people": "157.439 (12/2013)",
+            "area": "66,8",
+            "distribute": "2.358"
+        },
+        "Hi\u1ec7p H\u00f2a": {
+            "number_people": "213.002",
+            "area": "201,1",
+            "distribute": "1.059"
+        },
+        "L\u1ea1ng Giang": {
+            "number_people": "191.048 (9/2010)",
+            "area": "239,8480",
+            "distribute": "797"
+        },
+        "L\u1ee5c Nam": {
+            "number_people": "198.358",
+            "area": "597,1",
+            "distribute": "332"
+        },
+        "L\u1ee5c Ng\u1ea1n": {
+            "number_people": "204.416",
+            "area": "1.012,2",
+            "distribute": "202"
+        },
+        "S\u01a1n \u0110\u1ed9ng": {
+            "number_people": "68.724",
+            "area": "845,8",
+            "distribute": "81"
+        },
+        "T\u00e2n Y\u00ean": {
+            "number_people": "158.547",
+            "area": "204,4",
+            "distribute": "776"
+        },
+        "Vi\u1ec7t Y\u00ean": {
+            "number_people": "159.936",
+            "area": "171,6",
+            "distribute": "932"
+        },
+        "Y\u00ean D\u0169ng": {
+            "number_people": "135.075 (9/2010)",
+            "area": "185,9466",
+            "distribute": "726"
+        },
+        "Y\u00ean Th\u1ebf": {
+            "number_people": "92.702",
+            "area": "301,3",
+            "distribute": "308"
+        }
+    },
+    "H\u00e0 Giang": {
+        "B\u1eafc M\u00ea": {
+            "number_people": "47.339",
+            "area": "840,8",
+            "distribute": "56"
+        },
+        "B\u1eafc Quang": {
+            "number_people": "45.286",
+            "area": "1.101",
+            "distribute": "41"
+        },
+        "\u0110\u1ed3ng V\u0103n": {
+            "number_people": "64.757",
+            "area": "461,1",
+            "distribute": "140"
+        },
+        "H\u00e0 Giang": {
+            "number_people": "71.689",
+            "area": "135,3193",
+            "distribute": "530"
+        },
+        "Ho\u00e0ng Su Ph\u00ec": {
+            "number_people": "59.427",
+            "area": "634,4",
+            "distribute": "94"
+        },
+        "M\u00e8o V\u1ea1c": {
+            "number_people": "70.162",
+            "area": "576,7",
+            "distribute": "122"
+        },
+        "Qu\u1ea3n B\u1ea1": {
+            "number_people": "44.506",
+            "area": "532,1",
+            "distribute": "83"
+        },
+        "Quang B\u00ecnh": {
+            "number_people": "56.824 (12/2010)",
+            "area": "774,63",
+            "distribute": "73"
+        },
+        "V\u1ecb Xuy\u00ean": {
+            "number_people": "95.725",
+            "area": "1.487,5",
+            "distribute": "64"
+        },
+        "X\u00edn M\u1ea7n": {
+            "number_people": "58.195",
+            "area": "582,7",
+            "distribute": "100"
+        },
+        "Y\u00ean Minh": {
+            "number_people": "77.625",
+            "area": "786,2",
+            "distribute": "99"
+        }
+    },
+    "B\u1eafc Ninh": {
+        "B\u1eafc Ninh": {
+            "number_people": "188.138 ",
+            "area": "82,6",
+            "distribute": "3.301"
+        },
+        "Gia B\u00ecnh": {
+            "number_people": "92.269",
+            "area": "107,9",
+            "distribute": "855"
+        },
+        "L\u01b0\u01a1ng T\u00e0i": {
+            "number_people": "96.326",
+            "area": "105,7",
+            "distribute": "911"
+        },
+        "Qu\u1ebf V\u00f5": {
+            "number_people": "135.938",
+            "area": "149,1",
+            "distribute": "912"
+        },
+        "Thu\u1eadn Th\u00e0nh": {
+            "number_people": "144.536",
+            "area": "117,9",
+            "distribute": "1.226"
+        },
+        "Ti\u00ean Du": {
+            "number_people": "124.396",
+            "area": "96,2",
+            "distribute": "1.293"
+        },
+        "T\u1eeb S\u01a1n": {
+            "number_people": "140.040",
+            "area": "61,3",
+            "distribute": "2.285"
+        },
+        "Y\u00ean Phong": {
+            "number_people": "126.660",
+            "area": "95,2",
+            "distribute": "1.330"
+        }
+    },
+    "L\u1ea1ng S\u01a1n": {
+        "B\u1eafc S\u01a1n": {
+            "number_people": "65.836",
+            "area": "699,91",
+            "distribute": "94"
+        },
+        "B\u00ecnh Gia": {
+            "number_people": "52.087",
+            "area": "1.093,3",
+            "distribute": "48"
+        },
+        "Cao L\u1ed9c": {
+            "number_people": "73.516",
+            "area": "641,6",
+            "distribute": "115"
+        },
+        "Chi L\u0103ng": {
+            "number_people": "73.887",
+            "area": "707,9",
+            "distribute": "104"
+        },
+        "\u0110\u00ecnh L\u1eadp": {
+            "number_people": "26.429",
+            "area": "1.188,5",
+            "distribute": "22"
+        },
+        "H\u1eefu L\u0169ng": {
+            "number_people": "112.451",
+            "area": "807,7",
+            "distribute": "139"
+        },
+        "L\u1ea1ng S\u01a1n": {
+            "number_people": "87.278",
+            "area": "78,1",
+            "distribute": "1.118"
+        },
+        "L\u1ed9c B\u00ecnh": {
+            "number_people": "78.324",
+            "area": "1.001",
+            "distribute": "78"
+        },
+        "Tr\u00e0ng \u0110\u1ecbnh": {
+            "number_people": "58.441",
+            "area": "999,6",
+            "distribute": "58"
+        },
+        "V\u0103n L\u00e3ng": {
+            "number_people": "50.198",
+            "area": "563,3",
+            "distribute": "89"
+        },
+        "V\u0103n Quan": {
+            "number_people": "54.068",
+            "area": "550,4",
+            "distribute": "98"
+        }
+    },
+    "Qu\u1ea3ng Nam": {
+        "B\u1eafc Tr\u00e0 My": {
+            "number_people": "38.218",
+            "area": "823,05",
+            "distribute": "46"
+        },
+        "Duy Xuy\u00ean": {
+            "number_people": "120.948",
+            "area": "299,1",
+            "distribute": "404"
+        },
+        "\u0110\u1ea1i L\u1ed9c": {
+            "number_people": "145.935",
+            "area": "587,1",
+            "distribute": "249"
+        },
+        "\u0110i\u1ec7n B\u00e0n": {
+            "number_people": "197.830",
+            "area": "214,7",
+            "distribute": "921"
+        },
+        "\u0110\u00f4ng Giang": {
+            "number_people": "23.428",
+            "area": "812,6",
+            "distribute": "29"
+        },
+        "Hi\u1ec7p \u0110\u1ee9c": {
+            "number_people": "38.001",
+            "area": "494,2",
+            "distribute": "77"
+        },
+        "H\u1ed9i An": {
+            "number_people": "89.716",
+            "area": "61,5",
+            "distribute": "1.459"
+        },
+        "Nam Giang": {
+            "number_people": "22.990 (1/2011)",
+            "area": "1.842,8867",
+            "distribute": "12"
+        },
+        "Nam Tr\u00e0 My": {
+            "number_people": "25.464",
+            "area": "825,5",
+            "distribute": "31"
+        },
+        "N\u00f4ng S\u01a1n": {
+            "number_people": "31.470",
+            "area": "455,9",
+            "distribute": "69"
+        },
+        "N\u00fai Th\u00e0nh": {
+            "number_people": "137.481",
+            "area": "534",
+            "distribute": "257"
+        },
+        "Ph\u00fa Ninh": {
+            "number_people": "84.863 (12/2009)",
+            "area": "251,47",
+            "distribute": "337"
+        },
+        "Ph\u01b0\u1edbc S\u01a1n": {
+            "number_people": "22.586",
+            "area": "1.141,3",
+            "distribute": "20"
+        },
+        "Qu\u1ebf S\u01a1n": {
+            "number_people": "82.216",
+            "area": "250,8",
+            "distribute": "328"
+        },
+        "Tam K\u1ef3": {
+            "number_people": "107.924",
+            "area": "92,6",
+            "distribute": "1.165"
+        },
+        "T\u00e2y Giang": {
+            "number_people": "16.534",
+            "area": "903",
+            "distribute": "18"
+        },
+        "Th\u0103ng B\u00ecnh": {
+            "number_people": "176.783",
+            "area": "385,6",
+            "distribute": "458"
+        },
+        "Ti\u00ean Ph\u01b0\u1edbc": {
+            "number_people": "68.877",
+            "area": "454,4",
+            "distribute": "152"
+        }
+    },
+    "S\u01a1n La": {
+        "B\u1eafc Y\u00ean": {
+            "number_people": "56.796",
+            "area": "1.099,4",
+            "distribute": "52"
+        },
+        "Mai S\u01a1n": {
+            "number_people": "137.341",
+            "area": "1.423,8",
+            "distribute": "96"
+        },
+        "M\u1ed9c Ch\u00e2u": {
+            "number_people": "104.730 (6/2013)",
+            "area": "1.081,66",
+            "distribute": "97"
+        },
+        "M\u01b0\u1eddng La": {
+            "number_people": "91.377",
+            "area": "1.424,6",
+            "distribute": "64"
+        },
+        "Ph\u00f9 Y\u00ean": {
+            "number_people": "106.892",
+            "area": "1.227,3",
+            "distribute": "87"
+        },
+        "Qu\u1ef3nh Nhai": {
+            "number_people": "58.300 (2/2011)",
+            "area": "1.060,90",
+            "distribute": "55"
+        },
+        "S\u00f4ng M\u00e3": {
+            "number_people": "126.099",
+            "area": "1.632",
+            "distribute": "77"
+        },
+        "S\u1ed1p C\u1ed9p": {
+            "number_people": "39.038",
+            "area": "1.480,9",
+            "distribute": "26"
+        },
+        "S\u01a1n La": {
+            "number_people": "107.282 (1/2010)",
+            "area": "324,93",
+            "distribute": "330"
+        },
+        "Thu\u1eadn Ch\u00e2u": {
+            "number_people": "147.374",
+            "area": "1.533,4",
+            "distribute": "96"
+        },
+        "V\u00e2n H\u1ed3": {
+            "number_people": "55.797 (6/2013)",
+            "area": "979,84",
+            "distribute": "57"
+        },
+        "Y\u00ean Ch\u00e2u": {
+            "number_people": "68.753",
+            "area": "856,4",
+            "distribute": "80"
+        }
+    },
+    "T\u00e2y Ninh": {
+        "B\u1ebfn C\u1ea7u": {
+            "number_people": "62.934",
+            "area": "233,3",
+            "distribute": "270"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "130.101",
+            "area": "571,3",
+            "distribute": "228"
+        },
+        "D\u01b0\u01a1ng Minh Ch\u00e2u": {
+            "number_people": "104.300",
+            "area": "452,8",
+            "distribute": "230"
+        },
+        "G\u00f2 D\u1ea7u": {
+            "number_people": "137.019",
+            "area": "250,5",
+            "distribute": "547"
+        },
+        "H\u00f2a Th\u00e0nh": {
+            "number_people": "147.666",
+            "area": "82,92",
+            "distribute": "1.781"
+        },
+        "T\u00e2n Bi\u00ean": {
+            "number_people": "93.813",
+            "area": "859,87",
+            "distribute": "110"
+        },
+        "T\u00e2n Ch\u00e2u": {
+            "number_people": "121.393",
+            "area": "1.110,4",
+            "distribute": "109"
+        },
+        "T\u00e2y Ninh": {
+            "number_people": "153.537 (12/2013)",
+            "area": "140,0081",
+            "distribute": "1.097"
+        },
+        "Tr\u1ea3ng B\u00e0ng": {
+            "number_people": "161.831",
+            "area": "340,14",
+            "distribute": "476"
+        }
+    },
+    "Long An": {
+        "B\u1ebfn L\u1ee9c": {
+            "number_people": "148.621",
+            "area": "289,3",
+            "distribute": "514"
+        },
+        "C\u1ea7n \u0110\u01b0\u1edbc": {
+            "number_people": "168.730",
+            "area": "218,1",
+            "distribute": "774"
+        },
+        "C\u1ea7n Giu\u1ed9c": {
+            "number_people": "168.039",
+            "area": "209,9",
+            "distribute": "801"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "97.419",
+            "area": "150,5",
+            "distribute": "647"
+        },
+        "\u0110\u1ee9c H\u00f2a": {
+            "number_people": "345.817",
+            "area": "426,5",
+            "distribute": "811"
+        },
+        "\u0110\u1ee9c Hu\u1ec7": {
+            "number_people": "59.034",
+            "area": "430,9",
+            "distribute": "137"
+        },
+        "Ki\u1ebfn T\u01b0\u1eddng": {
+            "number_people": "64.589 (3/2013)",
+            "area": "204,282",
+            "distribute": "316"
+        },
+        "M\u1ed9c H\u00f3a": {
+            "number_people": "29.853 (4/2013)",
+            "area": "297,6425",
+            "distribute": "100"
+        },
+        "T\u00e2n An": {
+            "number_people": "166.419 (8/2009)",
+            "area": "81,9494",
+            "distribute": "2.031"
+        },
+        "T\u00e2n H\u01b0ng": {
+            "number_people": "47.742",
+            "area": "497,4",
+            "distribute": "96"
+        },
+        "T\u00e2n Th\u1ea1nh": {
+            "number_people": "75.551",
+            "area": "425,8",
+            "distribute": "177"
+        },
+        "T\u00e2n Tr\u1ee5": {
+            "number_people": "60.278",
+            "area": "106,5",
+            "distribute": "566"
+        },
+        "Th\u1ea1nh H\u00f3a": {
+            "number_people": "53.597",
+            "area": "468,3",
+            "distribute": "114"
+        },
+        "Th\u1ee7 Th\u1eeba": {
+            "number_people": "89.235",
+            "area": "299",
+            "distribute": "298"
+        },
+        "V\u0129nh H\u01b0ng": {
+            "number_people": "49.371",
+            "area": "384,5",
+            "distribute": "128"
+        }
+    },
+    "\u0110\u1ed3ng Nai": {
+        "Bi\u00ean H\u00f2a": {
+            "number_people": "946.080",
+            "area": "264,1",
+            "distribute": "4.184"
+        },
+        "C\u1ea9m M\u1ef9": {
+            "number_people": "154.610",
+            "area": "468",
+            "distribute": "295"
+        },
+        "\u0110\u1ecbnh Qu\u00e1n": {
+            "number_people": "211.070",
+            "area": "966,5",
+            "distribute": "198"
+        },
+        "Long Kh\u00e1nh": {
+            "number_people": "145.334",
+            "area": "194,1",
+            "distribute": "673"
+        },
+        "Long Th\u00e0nh": {
+            "number_people": "225.754 ",
+            "area": "431,0102",
+            "distribute": "438"
+        },
+        "Nh\u01a1n Tr\u1ea1ch": {
+            "number_people": "215.556",
+            "area": "410,9",
+            "distribute": "385"
+        },
+        "T\u00e2n Ph\u00fa": {
+            "number_people": "167.046",
+            "area": "775",
+            "distribute": "201"
+        },
+        "Th\u1ed1ng Nh\u1ea5t": {
+            "number_people": "163.812",
+            "area": "247,2",
+            "distribute": "594"
+        },
+        "Tr\u1ea3ng Bom": {
+            "number_people": "292.699",
+            "area": "326,1",
+            "distribute": "753"
+        },
+        "V\u0129nh C\u1eedu": {
+            "number_people": "146.362",
+            "area": "1.092",
+            "distribute": "114"
+        },
+        "Xu\u00e2n L\u1ed9c": {
+            "number_people": "237.577",
+            "area": "726,8",
+            "distribute": "283"
+        }
+    },
+    "TP H\u1ed3 Ch\u00ed Minh": {
+        "B\u00ecnh Ch\u00e1nh": {
+            "number_people": "591.451",
+            "area": "252,7",
+            "distribute": "1.663"
+        },
+        "B\u00ecnh T\u00e2n": {
+            "number_people": "686.474",
+            "area": "51,9",
+            "distribute": "11.026"
+        },
+        "B\u00ecnh Th\u1ea1nh": {
+            "number_people": "487.985",
+            "area": "20,8",
+            "distribute": "22.031"
+        },
+        "C\u1ea7n Gi\u1edd": {
+            "number_people": "74.960",
+            "area": "704,2",
+            "distribute": "98"
+        },
+        "C\u1ee7 Chi": {
+            "number_people": "403.038",
+            "area": "434,5",
+            "distribute": "790"
+        },
+        "G\u00f2 V\u1ea5p": {
+            "number_people": "634.146",
+            "area": "19,74",
+            "distribute": "26.478"
+        },
+        "H\u00f3c M\u00f4n": {
+            "number_people": "422.471",
+            "area": "109,18",
+            "distribute": "3.197"
+        },
+        "Nh\u00e0 B\u00e8": {
+            "number_people": "139.225",
+            "area": "100,41",
+            "distribute": "1.007"
+        },
+        "Ph\u00fa Nhu\u1eadn": {
+            "number_people": "182.477",
+            "area": "4,88",
+            "distribute": "35.765"
+        },
+        "Qu\u1eadn 1": {
+            "number_people": "193.632",
+            "area": "7,73",
+            "distribute": "25.049"
+        },
+        "Qu\u1eadn 2": {
+            "number_people": "147.168",
+            "area": "49,74",
+            "distribute": "2.959"
+        },
+        "Qu\u1eadn 3": {
+            "number_people": "196.333",
+            "area": "4,92",
+            "distribute": "39.905"
+        },
+        "Qu\u1eadn 4": {
+            "number_people": "186.727",
+            "area": "4,18",
+            "distribute": "44.671"
+        },
+        "Qu\u1eadn 5": {
+            "number_people": "178.615",
+            "area": "4,27",
+            "distribute": "41.830"
+        },
+        "Qu\u1eadn 6": {
+            "number_people": "258.945",
+            "area": "7,19",
+            "distribute": "36.014"
+        },
+        "Qu\u1eadn 7": {
+            "number_people": "310.178",
+            "area": "35,69",
+            "distribute": "8.691"
+        },
+        "Qu\u1eadn 8": {
+            "number_people": "431.969",
+            "area": "19,18",
+            "distribute": "22.522"
+        },
+        "Qu\u1eadn 9": {
+            "number_people": "290.620",
+            "area": "114,01",
+            "distribute": "2.549"
+        },
+        "Qu\u1eadn 10": {
+            "number_people": "238.558",
+            "area": "5,72",
+            "distribute": "41.706"
+        },
+        "Qu\u1eadn 11": {
+            "number_people": "230.596",
+            "area": "5,14",
+            "distribute": "44.863"
+        },
+        "Qu\u1eadn 12": {
+            "number_people": "510.326",
+            "area": "52,78",
+            "distribute": "9.669"
+        },
+        "T\u00e2n B\u00ecnh": {
+            "number_people": "459.029",
+            "area": "22,38",
+            "distribute": "20.511"
+        },
+        "T\u00e2n Ph\u00fa": {
+            "number_people": "464.493",
+            "area": "16,08",
+            "distribute": "28.886"
+        },
+        "Th\u1ee7 \u0110\u1ee9c": {
+            "number_people": "528.413",
+            "area": "47,76",
+            "distribute": "9.258"
+        }
+    },
+    "H\u1ea3i D\u01b0\u01a1ng": {
+        "B\u00ecnh Giang": {
+            "number_people": "104.167",
+            "area": "104,8",
+            "distribute": "994"
+        },
+        "C\u1ea9m Gi\u00e0ng": {
+            "number_people": "127.186",
+            "area": "109",
+            "distribute": "1.167"
+        },
+        "Ch\u00ed Linh": {
+            "number_people": "164.837 (2/2010)",
+            "area": "282",
+            "distribute": "584"
+        },
+        "Gia L\u1ed9c": {
+            "number_people": "115.670",
+            "area": "99,70",
+            "distribute": "1.160"
+        },
+        "H\u1ea3i D\u01b0\u01a1ng": {
+            "number_people": "508.190",
+            "area": "111,64",
+            "distribute": "4.552"
+        },
+        "Kim Th\u00e0nh": {
+            "number_people": "122.482",
+            "area": "112,9",
+            "distribute": "1.085"
+        },
+        "Kinh M\u00f4n": {
+            "number_people": "203.638",
+            "area": "165,33",
+            "distribute": "1.232"
+        },
+        "Nam S\u00e1ch": {
+            "number_people": "112.094",
+            "area": "109",
+            "distribute": "1.028"
+        },
+        "Ninh Giang": {
+            "number_people": "141.533",
+            "area": "135,4",
+            "distribute": "1.045"
+        },
+        "Thanh H\u00e0": {
+            "number_people": "136.858",
+            "area": "140,70",
+            "distribute": "973"
+        },
+        "Thanh Mi\u1ec7n": {
+            "number_people": "122.690",
+            "area": "122,3",
+            "distribute": "1.003"
+        },
+        "T\u1ee9 K\u1ef3": {
+            "number_people": "152.541",
+            "area": "165,32",
+            "distribute": "923"
+        }
+    },
+    "B\u00ecnh Ph\u01b0\u1edbc": {
+        "B\u00ecnh Long": {
+            "number_people": "57.590 (8/2009)",
+            "area": "126,3",
+            "distribute": "456"
+        },
+        "B\u00f9 \u0110\u0103ng": {
+            "number_people": "133.475",
+            "area": "1.503",
+            "distribute": "89"
+        },
+        "B\u00f9 \u0110\u1ed1p": {
+            "number_people": "51.576",
+            "area": "377,5",
+            "distribute": "137"
+        },
+        "B\u00f9 Gia M\u1eadp": {
+            "number_people": "72.907",
+            "area": "1.061,2",
+            "distribute": "69"
+        },
+        "Ch\u01a1n Th\u00e0nh": {
+            "number_people": "62.562 (8/2009)",
+            "area": "389,5",
+            "distribute": "161"
+        },
+        "\u0110\u1ed3ng Ph\u00fa": {
+            "number_people": "82.190",
+            "area": "929,1",
+            "distribute": "88"
+        },
+        "\u0110\u1ed3ng Xo\u00e0i": {
+            "number_people": "80.099",
+            "area": "168,5",
+            "distribute": "475"
+        },
+        "H\u1edbn Qu\u1ea3n": {
+            "number_people": "95.681 (8/2009)",
+            "area": "663,7977",
+            "distribute": "144"
+        },
+        "L\u1ed9c Ninh": {
+            "number_people": "109.866",
+            "area": "854",
+            "distribute": "129"
+        },
+        "Ph\u00fa Ri\u1ec1ng": {
+            "number_people": "92.016",
+            "area": "675",
+            "distribute": "136"
+        },
+        "Ph\u01b0\u1edbc Long": {
+            "number_people": "50.019 (8/2009)",
+            "area": "118,8393",
+            "distribute": "421"
+        }
+    },
+    "H\u00e0 Nam": {
+        "B\u00ecnh L\u1ee5c": {
+            "number_people": "133.978 (7/2013)",
+            "area": "144",
+            "distribute": "930"
+        },
+        "Duy Ti\u00ean": {
+            "number_people": "115.011 (7/2013)",
+            "area": "121",
+            "distribute": "950"
+        },
+        "Kim B\u1ea3ng": {
+            "number_people": "116.054 (7/2013)",
+            "area": "175,7172",
+            "distribute": "660"
+        },
+        "L\u00fd Nh\u00e2n": {
+            "number_people": "175.878",
+            "area": "186,7",
+            "distribute": "942"
+        },
+        "Ph\u1ee7 L\u00fd": {
+            "number_people": "136.654 (7/2013)",
+            "area": "87,8730",
+            "distribute": "1.555"
+        },
+        "Thanh Li\u00eam": {
+            "number_people": "113.077 (7/2013)",
+            "area": "164,7198",
+            "distribute": "686"
+        }
+    },
+    "V\u0129nh Long": {
+        "B\u00ecnh Minh": {
+            "number_people": "95.282 (12/2012)",
+            "area": "93,6",
+            "distribute": "1018"
+        },
+        "B\u00ecnh T\u00e2n": {
+            "number_people": "93.142",
+            "area": "152,9",
+            "distribute": "609"
+        },
+        "Long H\u1ed3": {
+            "number_people": "160.537",
+            "area": "193,2",
+            "distribute": "831"
+        },
+        "Mang Th\u00edt": {
+            "number_people": "99.201",
+            "area": "159,9",
+            "distribute": "620"
+        },
+        "Tam B\u00ecnh": {
+            "number_people": "153.805",
+            "area": "280",
+            "distribute": "549"
+        },
+        "Tr\u00e0 \u00d4n": {
+            "number_people": "134.787",
+            "area": "259",
+            "distribute": "520"
+        },
+        "V\u0129nh Long": {
+            "number_people": "136.594",
+            "area": "48",
+            "distribute": "2.846"
+        },
+        "V\u0169ng Li\u00eam": {
+            "number_people": "159.183",
+            "area": "294",
+            "distribute": "541"
+        }
+    },
+    "C\u1ea7n Th\u01a1": {
+        "B\u00ecnh Th\u1ee7y": {
+            "number_people": "113.562",
+            "area": "70,6",
+            "distribute": "1.609"
+        },
+        "C\u00e1i R\u0103ng": {
+            "number_people": "86.278",
+            "area": "62,5",
+            "distribute": "1.380"
+        },
+        "C\u1edd \u0110\u1ecf": {
+            "number_people": "124.069",
+            "area": "310,5",
+            "distribute": "400"
+        },
+        "Ninh Ki\u1ec1u": {
+            "number_people": "243.794",
+            "area": "29,2",
+            "distribute": "8.349"
+        },
+        "\u00d4 M\u00f4n": {
+            "number_people": "129.683",
+            "area": "125,4",
+            "distribute": "1.034"
+        },
+        "Phong \u0110i\u1ec1n": {
+            "number_people": "99.328",
+            "area": "119,5",
+            "distribute": "831"
+        },
+        "Th\u1ed1t N\u1ed1t": {
+            "number_people": "158.225",
+            "area": "117,8",
+            "distribute": "1.343"
+        },
+        "Th\u1edbi Lai": {
+            "number_people": "120.964",
+            "area": "255,7",
+            "distribute": "473"
+        },
+        "V\u0129nh Th\u1ea1nh": {
+            "number_people": "112.529",
+            "area": "297,6",
+            "distribute": "378"
+        }
+    },
+    "V\u0129nh Ph\u00fac": {
+        "B\u00ecnh Xuy\u00ean": {
+            "number_people": "108.246",
+            "area": "145,1",
+            "distribute": "746"
+        },
+        "L\u1eadp Th\u1ea1ch": {
+            "number_people": "118.646",
+            "area": "173,1",
+            "distribute": "685"
+        },
+        "Ph\u00fac Y\u00ean": {
+            "number_people": "91.790",
+            "area": "120,3",
+            "distribute": "763"
+        },
+        "S\u00f4ng L\u00f4": {
+            "number_people": "88.616",
+            "area": "150,3",
+            "distribute": "590"
+        },
+        "Tam D\u01b0\u01a1ng": {
+            "number_people": "94.692",
+            "area": "107,1",
+            "distribute": "884"
+        },
+        "Tam \u0110\u1ea3o": {
+            "number_people": "69.084",
+            "area": "236,4",
+            "distribute": "292"
+        },
+        "V\u0129nh T\u01b0\u1eddng": {
+            "number_people": "198.942 (9/2009)",
+            "area": "141,8202",
+            "distribute": "1.403"
+        },
+        "V\u0129nh Y\u00ean": {
+            "number_people": "94.294",
+            "area": "50,8",
+            "distribute": "1.856"
+        },
+        "Y\u00ean L\u1ea1c": {
+            "number_people": "145.240",
+            "area": "106,7",
+            "distribute": "1.361"
+        }
+    },
+    "\u0110\u1eafk L\u1eafk": {
+        "Bu\u00f4n \u0110\u00f4n": {
+            "number_people": "59.959",
+            "area": "1.410,4",
+            "distribute": "43"
+        },
+        "Bu\u00f4n H\u1ed3": {
+            "number_people": "96.685",
+            "area": "282,1",
+            "distribute": "343"
+        },
+        "Bu\u00f4n Ma Thu\u1ed9t": {
+            "number_people": "326.135",
+            "area": "377,2",
+            "distribute": "865"
+        },
+        "C\u01b0 Kuin": {
+            "number_people": "99.551",
+            "area": "288,3",
+            "distribute": "345"
+        },
+        "C\u01b0 M'gar": {
+            "number_people": "163.600",
+            "area": "824,4",
+            "distribute": "198"
+        },
+        "Ea H'leo": {
+            "number_people": "120.968",
+            "area": "1.335,1",
+            "distribute": "91"
+        },
+        "Ea Kar": {
+            "number_people": "141.331",
+            "area": "1.037,5",
+            "distribute": "136"
+        },
+        "Ea S\u00fap": {
+            "number_people": "58.579",
+            "area": "1.765,6",
+            "distribute": "33"
+        },
+        "Kr\u00f4ng Ana": {
+            "number_people": "81.010",
+            "area": "356,1",
+            "distribute": "227"
+        },
+        "Kr\u00f4ng B\u00f4ng": {
+            "number_people": "87.139",
+            "area": "1.257,5",
+            "distribute": "69"
+        },
+        "Kr\u00f4ng B\u00fak": {
+            "number_people": "57.387",
+            "area": "358,7",
+            "distribute": "160"
+        },
+        "Kr\u00f4ng N\u0103ng": {
+            "number_people": "118.223",
+            "area": "614,8",
+            "distribute": "147"
+        },
+        "Kr\u00f4ng P\u1eafk": {
+            "number_people": "198.009",
+            "area": "625,8",
+            "distribute": "316"
+        },
+        "L\u1eafk": {
+            "number_people": "59.954",
+            "area": "1.256",
+            "distribute": "48"
+        },
+        "M'\u0110r\u0103k": {
+            "number_people": "65.094",
+            "area": "1.336,3",
+            "distribute": "49"
+        }
+    },
+    "C\u00e0 Mau": {
+        "C\u00e0 Mau": {
+            "number_people": "204.895 (6/2009)",
+            "area": "250,3",
+            "distribute": "819"
+        },
+        "C\u00e1i N\u01b0\u1edbc": {
+            "number_people": "137.396",
+            "area": "417,1",
+            "distribute": "329"
+        },
+        "\u0110\u1ea7m D\u01a1i": {
+            "number_people": "182.028",
+            "area": "826,1",
+            "distribute": "220"
+        },
+        "N\u0103m C\u0103n": {
+            "number_people": "66.229",
+            "area": "494,1",
+            "distribute": "134"
+        },
+        "Ng\u1ecdc Hi\u1ec3n": {
+            "number_people": "83.152 (6/2009)",
+            "area": "733,1513",
+            "distribute": "113"
+        },
+        "Ph\u00fa T\u00e2n": {
+            "number_people": "103.885",
+            "area": "463,9",
+            "distribute": "224"
+        },
+        "Th\u1edbi B\u00ecnh": {
+            "number_people": "134.286",
+            "area": "640",
+            "distribute": "210"
+        },
+        "Tr\u1ea7n V\u0103n Th\u1eddi": {
+            "number_people": "186.252",
+            "area": "716,2",
+            "distribute": "260"
+        },
+        "U Minh": {
+            "number_people": "92.312 (6/2009)",
+            "area": "774,6150",
+            "distribute": "119"
+        }
+    },
+    "Ti\u1ec1n Giang": {
+        "Cai L\u1eady": {
+            "number_people": "123.775 (12/2013)",
+            "area": "140,2",
+            "distribute": "883"
+        },
+        "C\u00e1i B\u00e8": {
+            "number_people": "292.180 ()",
+            "area": "256",
+            "distribute": "729"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "259.408",
+            "area": "229,9",
+            "distribute": "1.128"
+        },
+        "Ch\u1ee3 G\u1ea1o": {
+            "number_people": "182.177",
+            "area": "229,4",
+            "distribute": "794"
+        },
+        "G\u00f2 C\u00f4ng": {
+            "number_people": "94.367",
+            "area": "102",
+            "distribute": "925"
+        },
+        "G\u00f2 C\u00f4ng \u0110\u00f4ng": {
+            "number_people": "143.418 (9/2010)",
+            "area": "267,6816",
+            "distribute": "536"
+        },
+        "G\u00f2 C\u00f4ng T\u00e2y": {
+            "number_people": "124.889",
+            "area": "180,2",
+            "distribute": "693"
+        },
+        "M\u1ef9 Tho": {
+            "number_people": "181.367",
+            "area": "81,5",
+            "distribute": "2.225"
+        },
+        "T\u00e2n Ph\u00fa \u0110\u00f4ng": {
+            "number_people": "40.430",
+            "area": "202,1",
+            "distribute": "200"
+        },
+        "T\u00e2n Ph\u01b0\u1edbc": {
+            "number_people": "56.417",
+            "area": "333,2",
+            "distribute": "169"
+        }
+    },
+    "Kh\u00e1nh H\u00f2a": {
+        "Cam L\u00e2m": {
+            "number_people": "100.850",
+            "area": "543,8",
+            "distribute": "185"
+        },
+        "Cam Ranh": {
+            "number_people": "128.358 (12/2010)",
+            "area": "325",
+            "distribute": "395"
+        },
+        "Di\u00ean Kh\u00e1nh": {
+            "number_people": "131.719",
+            "area": "336,2",
+            "distribute": "392"
+        },
+        "Kh\u00e1nh S\u01a1n": {
+            "number_people": "20.930",
+            "area": "336,9",
+            "distribute": "62"
+        },
+        "Kh\u00e1nh V\u0129nh": {
+            "number_people": "33.714",
+            "area": "1.165",
+            "distribute": "29"
+        },
+        "Nha Trang": {
+            "number_people": "392.279",
+            "area": "250,7",
+            "distribute": "1.565"
+        },
+        "Ninh H\u00f2a": {
+            "number_people": "233.558 (10/2010)",
+            "area": "1.197,77",
+            "distribute": "195"
+        },
+        "Tr\u01b0\u1eddng Sa": {
+            "number_people": "195",
+            "area": "496,3",
+            "distribute": "0,39"
+        },
+        "V\u1ea1n Ninh": {
+            "number_people": "126.477",
+            "area": "550,1",
+            "distribute": "230"
+        }
+    },
+    "Qu\u1ea3ng Tr\u1ecb": {
+        "Cam L\u1ed9": {
+            "number_people": "44.731",
+            "area": "346,9",
+            "distribute": "129"
+        },
+        "C\u1ed3n C\u1ecf": {
+            "number_people": "83",
+            "area": "2,2",
+            "distribute": "38"
+        },
+        "\u0110a Kr\u00f4ng": {
+            "number_people": "36.437",
+            "area": "1.223,3",
+            "distribute": "30"
+        },
+        "\u0110\u00f4ng H\u00e0": {
+            "number_people": "93.756 (8/2009)",
+            "area": "73,1",
+            "distribute": "1.283"
+        },
+        "Gio Linh": {
+            "number_people": "72.083",
+            "area": "473",
+            "distribute": "152"
+        },
+        "H\u1ea3i L\u0103ng": {
+            "number_people": "86.335",
+            "area": "423,7",
+            "distribute": "204"
+        },
+        "H\u01b0\u1edbng H\u00f3a": {
+            "number_people": "74.216",
+            "area": "1.150,9",
+            "distribute": "64"
+        },
+        "Qu\u1ea3ng Tr\u1ecb": {
+            "number_people": "22.294",
+            "area": "74",
+            "distribute": "301"
+        },
+        "Tri\u1ec7u Phong": {
+            "number_people": "94.610",
+            "area": "353",
+            "distribute": "268"
+        },
+        "V\u0129nh Linh": {
+            "number_people": "85.584",
+            "area": "623,7",
+            "distribute": "137"
+        }
+    },
+    "H\u00e0 T\u0129nh": {
+        "Can L\u1ed9c": {
+            "number_people": "127.515",
+            "area": "300,9",
+            "distribute": "424"
+        },
+        "C\u1ea9m Xuy\u00ean": {
+            "number_people": "141.216",
+            "area": "635,6",
+            "distribute": "222"
+        },
+        "\u0110\u1ee9c Th\u1ecd": {
+            "number_people": "104.536",
+            "area": "202,9",
+            "distribute": "513"
+        },
+        "H\u00e0 T\u0129nh": {
+            "number_people": "88.957",
+            "area": "56,3",
+            "distribute": "1.580"
+        },
+        "H\u1ed3ng L\u0129nh": {
+            "number_people": "35.436",
+            "area": "58,6",
+            "distribute": "605"
+        },
+        "H\u01b0\u01a1ng Kh\u00ea": {
+            "number_people": "100.212",
+            "area": "1.278,1",
+            "distribute": "78"
+        },
+        "H\u01b0\u01a1ng S\u01a1n": {
+            "number_people": "117.167",
+            "area": "1.101,3",
+            "distribute": "106"
+        },
+        "K\u1ef3 Anh": {
+            "number_people": "85.508",
+            "area": "280,2503",
+            "distribute": "305"
+        },
+        "L\u1ed9c H\u00e0": {
+            "number_people": "78.802",
+            "area": "118,3",
+            "distribute": "666"
+        },
+        "Nghi Xu\u00e2n": {
+            "number_people": "97.830",
+            "area": "220",
+            "distribute": "445"
+        },
+        "Th\u1ea1ch H\u00e0": {
+            "number_people": "132.377",
+            "area": "356,4",
+            "distribute": "371"
+        },
+        "V\u0169 Quang": {
+            "number_people": "30.989",
+            "area": "646,2",
+            "distribute": "48"
+        }
+    },
+    "Tr\u00e0 Vinh": {
+        "C\u00e0ng Long": {
+            "number_people": "143.389",
+            "area": "300,3",
+            "distribute": "477"
+        },
+        "C\u1ea7u K\u00e8": {
+            "number_people": "109.592",
+            "area": "243,5",
+            "distribute": "450"
+        },
+        "C\u1ea7u Ngang": {
+            "number_people": "130.608",
+            "area": "319,1",
+            "distribute": "409"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "136.786",
+            "area": "335,3",
+            "distribute": "408"
+        },
+        "Duy\u00ean H\u1ea3i": {
+            "number_people": "83.500",
+            "area": "300",
+            "distribute": "278"
+        },
+        "Ti\u1ec3u C\u1ea7n": {
+            "number_people": "109.122",
+            "area": "220,5",
+            "distribute": "495"
+        },
+        "Tr\u00e0 C\u00fa": {
+            "number_people": "176.721",
+            "area": "369,7",
+            "distribute": "478"
+        },
+        "Tr\u00e0 Vinh": {
+            "number_people": "131.360 (3/2010)",
+            "area": "68,0350",
+            "distribute": "1.931"
+        }
+    },
+    "\u0110\u1ed3ng Th\u00e1p": {
+        "Cao L\u00e3nh": {
+            "number_people": "200.689",
+            "area": "491,1",
+            "distribute": "409"
+        },
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "150.936",
+            "area": "246,2",
+            "distribute": "613"
+        },
+        "H\u1ed3ng Ng\u1ef1": {
+            "number_people": "100.610",
+            "area": "121,84",
+            "distribute": "826"
+        },
+        "Lai Vung": {
+            "number_people": "160.019",
+            "area": "238,2",
+            "distribute": "672"
+        },
+        "L\u1ea5p V\u00f2": {
+            "number_people": "180.024",
+            "area": "245,9",
+            "distribute": "732"
+        },
+        "Sa \u0110\u00e9c": {
+            "number_people": "152.237 (10/2013)",
+            "area": "59,81",
+            "distribute": "2.545"
+        },
+        "Tam N\u00f4ng": {
+            "number_people": "105.290",
+            "area": "528",
+            "distribute": "199"
+        },
+        "T\u00e2n H\u1ed3ng": {
+            "number_people": "90.994",
+            "area": "291,5",
+            "distribute": "312"
+        },
+        "Thanh B\u00ecnh": {
+            "number_people": "154.192",
+            "area": "329,5",
+            "distribute": "468"
+        },
+        "Th\u00e1p M\u01b0\u1eddi": {
+            "number_people": "137.481",
+            "area": "507,7",
+            "distribute": "271"
+        }
+    },
+    "H\u00f2a B\u00ecnh": {
+        "Cao Phong": {
+            "number_people": "40.949",
+            "area": "254,4",
+            "distribute": "161"
+        },
+        "\u0110\u00e0 B\u1eafc": {
+            "number_people": "52.381 (7/2009)",
+            "area": "779",
+            "distribute": "67"
+        },
+        "Ho\u00e0 B\u00ecnh": {
+            "number_people": "135.718",
+            "area": "348,65",
+            "distribute": "389"
+        },
+        "Kim B\u00f4i": {
+            "number_people": "114.015 (7/2009)",
+            "area": "551,0338",
+            "distribute": "207"
+        },
+        "L\u1ea1c S\u01a1n": {
+            "number_people": "132.337",
+            "area": "580,5",
+            "distribute": "228"
+        },
+        "L\u1ea1c Th\u1ee7y": {
+            "number_people": "60.624 (7/2009)",
+            "area": "319,9511",
+            "distribute": "189"
+        },
+        "L\u01b0\u01a1ng S\u01a1n": {
+            "number_people": "92.860 (7/2009)",
+            "area": "369,8541",
+            "distribute": "251"
+        },
+        "Mai Ch\u00e2u": {
+            "number_people": "55.663 (7/2009)",
+            "area": "564,5437",
+            "distribute": "99"
+        },
+        "T\u00e2n L\u1ea1c": {
+            "number_people": "78.665",
+            "area": "523",
+            "distribute": "150"
+        },
+        "Y\u00ean Th\u1ee7y": {
+            "number_people": "59.690",
+            "area": "282,1",
+            "distribute": "212"
+        }
+    },
+    "Ph\u00fa Th\u1ecd": {
+        "C\u1ea9m Kh\u00ea": {
+            "number_people": "125.790",
+            "area": "234,2",
+            "distribute": "537"
+        },
+        "\u0110oan H\u00f9ng": {
+            "number_people": "103.743",
+            "area": "302,4",
+            "distribute": "343"
+        },
+        "H\u1ea1 H\u00f2a": {
+            "number_people": "104.872",
+            "area": "339,4",
+            "distribute": "309"
+        },
+        "L\u00e2m Thao": {
+            "number_people": "99.859",
+            "area": "97,5",
+            "distribute": "1.024"
+        },
+        "Ph\u00fa Th\u1ecd": {
+            "number_people": "71.600 (7/2013)",
+            "area": "64,6007",
+            "distribute": "1.108"
+        },
+        "Ph\u00f9 Ninh": {
+            "number_people": "94.094",
+            "area": "156,4",
+            "distribute": "602"
+        },
+        "Tam N\u00f4ng": {
+            "number_people": "75.469",
+            "area": "155,5",
+            "distribute": "485"
+        },
+        "T\u00e2n S\u01a1n": {
+            "number_people": "76.035",
+            "area": "688,6",
+            "distribute": "110"
+        },
+        "Thanh Ba": {
+            "number_people": "108.015",
+            "area": "195",
+            "distribute": "553"
+        },
+        "Thanh S\u01a1n": {
+            "number_people": "117.665",
+            "area": "620,6",
+            "distribute": "190"
+        },
+        "Thanh Th\u1ee7y": {
+            "number_people": "75.588",
+            "area": "123,8",
+            "distribute": "611"
+        },
+        "Vi\u1ec7t Tr\u00ec": {
+            "number_people": "283.995 (31/12/2013)",
+            "area": "111,75",
+            "distribute": "2.541"
+        },
+        "Y\u00ean L\u1eadp": {
+            "number_people": "82.213",
+            "area": "437,5",
+            "distribute": "188"
+        }
+    },
+    "\u0110\u00e0 N\u1eb5ng": {
+        "C\u1ea9m L\u1ec7": {
+            "number_people": "87.691",
+            "area": "33,3",
+            "distribute": "2.633"
+        },
+        "H\u1ea3i Ch\u00e2u": {
+            "number_people": "189.561",
+            "area": "20,6",
+            "distribute": "9.202"
+        },
+        "H\u00f2a Vang": {
+            "number_people": "116.524",
+            "area": "707,3",
+            "distribute": "165"
+        },
+        "Ho\u00e0ng Sa": {
+            "number_people": "0",
+            "area": "305",
+            "distribute": "0"
+        },
+        "Li\u00ean Chi\u1ec3u": {
+            "number_people": "128.353",
+            "area": "75,7",
+            "distribute": "1.696"
+        },
+        "Ng\u0169 H\u00e0nh S\u01a1n": {
+            "number_people": "63.067",
+            "area": "36,5",
+            "distribute": "1.728"
+        },
+        "S\u01a1n Tr\u00e0": {
+            "number_people": "127.682",
+            "area": "60",
+            "distribute": "2.128"
+        },
+        "Thanh Kh\u00ea": {
+            "number_people": "174.557",
+            "area": "9,3",
+            "distribute": "18.770"
+        }
+    },
+    "H\u1eadu Giang": {
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "89.242 (8/2009)",
+            "area": "134,5",
+            "distribute": "663"
+        },
+        "Ch\u00e2u Th\u00e0nh A": {
+            "number_people": "107.713 (8/2009)",
+            "area": "156,6",
+            "distribute": "688"
+        },
+        "Long M\u1ef9": {
+            "number_people": "85.000",
+            "area": "250",
+            "distribute": "340"
+        },
+        "Ng\u00e3 B\u1ea3y": {
+            "number_people": "101.192",
+            "area": "78,07",
+            "distribute": "1.296"
+        },
+        "Ph\u1ee5ng Hi\u1ec7p": {
+            "number_people": "210.089 (1/2011)",
+            "area": "485,55",
+            "distribute": "433"
+        },
+        "V\u1ecb Thanh": {
+            "number_people": "97.222 (9/2010)",
+            "area": "118,6774",
+            "distribute": "819"
+        },
+        "V\u1ecb Th\u1ee7y": {
+            "number_people": "99.476",
+            "area": "230,2",
+            "distribute": "432"
+        }
+    },
+    "S\u00f3c Tr\u0103ng": {
+        "Ch\u00e2u Th\u00e0nh": {
+            "number_people": "100.758",
+            "area": "230,3",
+            "distribute": "438"
+        },
+        "C\u00f9 Lao Dung": {
+            "number_people": "62.931",
+            "area": "249,4",
+            "distribute": "252"
+        },
+        "K\u1ebf S\u00e1ch": {
+            "number_people": "159.562 (7/2013)",
+            "area": "352,8761",
+            "distribute": "452"
+        },
+        "Long Ph\u00fa": {
+            "number_people": "112.994 (8/2011)",
+            "area": "263,8227",
+            "distribute": "428"
+        },
+        "M\u1ef9 T\u00fa": {
+            "number_people": "106.361",
+            "area": "368,2",
+            "distribute": "289"
+        },
+        "M\u1ef9 Xuy\u00ean": {
+            "number_people": "150.003 (12/2009)",
+            "area": "263,7212",
+            "distribute": "569"
+        },
+        "Ng\u00e3 N\u0103m": {
+            "number_people": "79.677 (12/2013)",
+            "area": "242,2435",
+            "distribute": "329"
+        },
+        "S\u00f3c Tr\u0103ng": {
+            "number_people": "136.018",
+            "area": "76,2",
+            "distribute": "1.785"
+        },
+        "Th\u1ea1nh Tr\u1ecb": {
+            "number_people": "89.091 (12/2009) ",
+            "area": "287,5996",
+            "distribute": "310"
+        },
+        "Tr\u1ea7n \u0110\u1ec1": {
+            "number_people": "130.077 (12/2009)",
+            "area": "378,7598",
+            "distribute": "343"
+        },
+        "V\u0129nh Ch\u00e2u": {
+            "number_people": "163.800 (8/2011)",
+            "area": "473,3948",
+            "distribute": "346"
+        }
+    },
+    "Tuy\u00ean Quang": {
+        "Chi\u00eam H\u00f3a": {
+            "number_people": "124.337 (1/2011)",
+            "area": "1.280,4",
+            "distribute": "97"
+        },
+        "H\u00e0m Y\u00ean": {
+            "number_people": "109.739",
+            "area": "900,9",
+            "distribute": "122"
+        },
+        "L\u00e2m B\u00ecnh": {
+            "number_people": "29.459 (1/2011)",
+            "area": "781,5217",
+            "distribute": "38"
+        },
+        "Na Hang": {
+            "number_people": "41.868 (1/2011)",
+            "area": "865,4969 ",
+            "distribute": "48"
+        },
+        "S\u01a1n D\u01b0\u01a1ng": {
+            "number_people": "171.694",
+            "area": "788,6",
+            "distribute": "218"
+        },
+        "Tuy\u00ean Quang": {
+            "number_people": "191.118",
+            "area": "184,38",
+            "distribute": "1.037"
+        },
+        "Y\u00ean S\u01a1n": {
+            "number_people": "145.390",
+            "area": "1.067,70",
+            "distribute": "136"
+        }
+    },
+    "\u0110\u0103k N\u00f4ng": {
+        "C\u01b0 J\u00fat": {
+            "number_people": "88.264",
+            "area": "718,9",
+            "distribute": "123"
+        },
+        "\u0110\u1eafk Glong": {
+            "number_people": "29.248 (7/2010)",
+            "area": "1.448,8",
+            "distribute": "20"
+        },
+        "\u0110\u1eafk Mil": {
+            "number_people": "87.831",
+            "area": "682,7",
+            "distribute": "129"
+        },
+        "\u0110\u1eafk R'l\u1ea5p": {
+            "number_people": "74.087",
+            "area": "634,2",
+            "distribute": "117"
+        },
+        "\u0110\u1eafk Song": {
+            "number_people": "56.829",
+            "area": "807,8",
+            "distribute": "70"
+        },
+        "Gia Ngh\u0129a": {
+            "number_people": "41.788",
+            "area": "286,6",
+            "distribute": "146"
+        },
+        "Kr\u00f4ng N\u00f4": {
+            "number_people": "62.888",
+            "area": "804,8",
+            "distribute": "78"
+        },
+        "Tuy \u0110\u1ee9c": {
+            "number_people": "38.656",
+            "area": "1.123,3",
+            "distribute": "34"
+        }
+    },
+    "Th\u00e1i Nguy\u00ean": {
+        "\u0110\u1ea1i T\u1eeb": {
+            "number_people": "160.598 (12/2013)",
+            "area": "568,55",
+            "distribute": "274"
+        },
+        "\u0110\u1ecbnh H\u00f3a": {
+            "number_people": "87.089",
+            "area": "520,8",
+            "distribute": "167"
+        },
+        "\u0110\u1ed3ng H\u1ef7": {
+            "number_people": "114.893 (1/2011)",
+            "area": "457,5",
+            "distribute": "251"
+        },
+        "Ph\u1ed5 Y\u00ean": {
+            "number_people": "158.619",
+            "area": "258,86",
+            "distribute": "558"
+        },
+        "Ph\u00fa B\u00ecnh": {
+            "number_people": "134.150",
+            "area": "245,7",
+            "distribute": "546"
+        },
+        "Ph\u00fa L\u01b0\u01a1ng": {
+            "number_people": "106.681 (12/2013)",
+            "area": "368,9465",
+            "distribute": "289"
+        },
+        "S\u00f4ng C\u00f4ng": {
+            "number_people": "109.409",
+            "area": "109,4",
+            "distribute": "1.000"
+        },
+        "Th\u00e1i Nguy\u00ean": {
+            "number_people": "306.842",
+            "area": "170,7",
+            "distribute": "1.798"
+        },
+        "V\u00f5 Nhai": {
+            "number_people": "64.241",
+            "area": "843,5",
+            "distribute": "76"
+        }
+    },
+    "Kon Tum": {
+        "\u0110\u1eafk Glei": {
+            "number_people": "38.863",
+            "area": "1.495,3",
+            "distribute": "26"
+        },
+        "\u0110\u1eafk H\u00e0": {
+            "number_people": "65.206 (12/2013)",
+            "area": "845,7",
+            "distribute": "77"
+        },
+        "\u0110\u1eafk T\u00f4": {
+            "number_people": "37.440",
+            "area": "506,4",
+            "distribute": "74"
+        },
+        "Ia H'Drai": {
+            "number_people": "11.644",
+            "area": "980,1322",
+            "distribute": "12"
+        },
+        "Kon Pl\u00f4ng": {
+            "number_people": "20.890",
+            "area": "1.381,2",
+            "distribute": "15"
+        },
+        "Kon R\u1eaby": {
+            "number_people": "22.622",
+            "area": "911,3",
+            "distribute": "25"
+        },
+        "Kon Tum": {
+            "number_people": "155.214 (12/2013)",
+            "area": "432,1249",
+            "distribute": "359"
+        },
+        "Ng\u1ecdc H\u1ed3i": {
+            "number_people": "41.828",
+            "area": "844,5",
+            "distribute": "50"
+        },
+        "Sa Th\u1ea7y": {
+            "number_people": "42.703",
+            "area": "1.435",
+            "distribute": "30"
+        },
+        "Tu M\u01a1 R\u00f4ng": {
+            "number_people": "22.498",
+            "area": "861,7",
+            "distribute": "26"
+        }
+    },
+    "\u0110i\u1ec7n Bi\u00ean": {
+        "\u0110i\u1ec7n Bi\u00ean": {
+            "number_people": "93.850",
+            "area": "1.395,99",
+            "distribute": "67"
+        },
+        "\u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng": {
+            "number_people": "56.249",
+            "area": "1.266,5",
+            "distribute": "44"
+        },
+        "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7": {
+            "number_people": "80.366",
+            "area": "308,18",
+            "distribute": "261"
+        },
+        "M\u01b0\u1eddng \u1ea2ng": {
+            "number_people": "40.119",
+            "area": "443,2",
+            "distribute": "91"
+        },
+        "M\u01b0\u1eddng Ch\u00e0": {
+            "number_people": "39.456 (8/2012)",
+            "area": "1.199,4209 ",
+            "distribute": "33"
+        },
+        "M\u01b0\u1eddng Lay": {
+            "number_people": "11.650",
+            "area": "114,1",
+            "distribute": "102"
+        },
+        "M\u01b0\u1eddng Nh\u00e9": {
+            "number_people": "32.977 (8/2012)",
+            "area": "1.573,73",
+            "distribute": "21"
+        },
+        "N\u1eadm P\u1ed3": {
+            "number_people": "43.542 (8/2012)",
+            "area": "1.498,1296",
+            "distribute": "29"
+        },
+        "T\u1ee7a Ch\u00f9a": {
+            "number_people": "47.279",
+            "area": "679,4",
+            "distribute": "70"
+        },
+        "Tu\u1ea7n Gi\u00e1o": {
+            "number_people": "77.446 (8/2012)",
+            "area": "1.137,7682",
+            "distribute": "68"
+        }
+    },
+    "Ph\u00fa Y\u00ean": {
+        "\u0110\u00f4ng H\u00f2a": {
+            "number_people": "114.993 (8/2013)",
+            "area": "268,3",
+            "distribute": "429"
+        },
+        "\u0110\u1ed3ng Xu\u00e2n": {
+            "number_people": "58.014",
+            "area": "1.063,4",
+            "distribute": "55"
+        },
+        "Ph\u00fa H\u00f2a": {
+            "number_people": "103.268",
+            "area": "263,2",
+            "distribute": "392"
+        },
+        "S\u00f4ng C\u1ea7u": {
+            "number_people": "101.521 (8/2009)",
+            "area": "489,2848",
+            "distribute": "207"
+        },
+        "S\u00f4ng Hinh": {
+            "number_people": "45.352",
+            "area": "884,6",
+            "distribute": "51"
+        },
+        "S\u01a1n H\u00f2a": {
+            "number_people": "54.067",
+            "area": "950,3",
+            "distribute": "57"
+        },
+        "T\u00e2y H\u00f2a": {
+            "number_people": "116.272 (8/2013)",
+            "area": "609,4506",
+            "distribute": "191"
+        },
+        "Tuy An": {
+            "number_people": "121.355",
+            "area": "399,3",
+            "distribute": "304"
+        },
+        "Tuy H\u00f2a": {
+            "number_people": "152.113",
+            "area": "106,8",
+            "distribute": "1.424"
+        }
+    },
+    "Th\u00e1i B\u00ecnh": {
+        "\u0110\u00f4ng H\u01b0ng": {
+            "number_people": "246.335",
+            "area": "191,8",
+            "distribute": "1.284"
+        },
+        "H\u01b0ng H\u00e0": {
+            "number_people": "254.774",
+            "area": "200,4",
+            "distribute": "1.271"
+        },
+        "Ki\u1ebfn X\u01b0\u01a1ng": {
+            "number_people": "223.719",
+            "area": "199,2",
+            "distribute": "1.123"
+        },
+        "Qu\u1ef3nh Ph\u1ee5": {
+            "number_people": "245.188",
+            "area": "209,6",
+            "distribute": "1.170"
+        },
+        "Th\u00e1i B\u00ecnh": {
+            "number_people": "268.482* ",
+            "area": "67,71",
+            "distribute": "3.965"
+        },
+        "Th\u00e1i Th\u1ee5y": {
+            "number_people": "267.012",
+            "area": "256,8",
+            "distribute": "1.040"
+        },
+        "Ti\u1ec1n H\u1ea3i": {
+            "number_people": "213.616",
+            "area": "226",
+            "distribute": "945"
+        },
+        "V\u0169 Th\u01b0": {
+            "number_people": "224.832",
+            "area": "195,2",
+            "distribute": "1.152"
+        }
+    },
+    "Ninh B\u00ecnh": {
+        "Gia Vi\u1ec5n": {
+            "number_people": "115.708",
+            "area": "178,5",
+            "distribute": "648"
+        },
+        "Hoa L\u01b0": {
+            "number_people": "66.187",
+            "area": "103,3",
+            "distribute": "641"
+        },
+        "Kim S\u01a1n": {
+            "number_people": "164.735",
+            "area": "164,7",
+            "distribute": "1.000"
+        },
+        "Nho Quan": {
+            "number_people": "143.083",
+            "area": "458,3",
+            "distribute": "312"
+        },
+        "Ninh B\u00ecnh": {
+            "number_people": "110.541",
+            "area": "48,4",
+            "distribute": "2.284"
+        },
+        "Tam \u0110i\u1ec7p": {
+            "number_people": "55.021",
+            "area": "104,6",
+            "distribute": "526"
+        },
+        "Y\u00ean Kh\u00e1nh": {
+            "number_people": "133.420",
+            "area": "142,3",
+            "distribute": "938"
+        },
+        "Y\u00ean M\u00f4": {
+            "number_people": "110.302 (11/2012)",
+            "area": "144,743",
+            "distribute": "762"
+        }
+    },
+    "Nam \u0110\u1ecbnh": {
+        "Giao Th\u1ee7y": {
+            "number_people": "188.875",
+            "area": "232,1",
+            "distribute": "813"
+        },
+        "H\u1ea3i H\u1eadu": {
+            "number_people": "256.864",
+            "area": "230,2",
+            "distribute": "1.116"
+        },
+        "M\u1ef9 L\u1ed9c": {
+            "number_people": "69.143",
+            "area": "73,7",
+            "distribute": "938"
+        },
+        "Nam \u0110\u1ecbnh": {
+            "number_people": "243.186",
+            "area": "46,4",
+            "distribute": "5.241"
+        },
+        "Nam Tr\u1ef1c": {
+            "number_people": "192.312",
+            "area": "161,7",
+            "distribute": "1.189"
+        },
+        "Ngh\u0129a H\u01b0ng": {
+            "number_people": "178.540",
+            "area": "250,5",
+            "distribute": "713"
+        },
+        "Tr\u1ef1c Ninh": {
+            "number_people": "176.622",
+            "area": "143,5",
+            "distribute": "1.231"
+        },
+        "V\u1ee5 B\u1ea3n": {
+            "number_people": "129.669",
+            "area": "147,7",
+            "distribute": "877"
+        },
+        "Xu\u00e2n Tr\u01b0\u1eddng": {
+            "number_people": "165.739",
+            "area": "112,9",
+            "distribute": "1.468"
+        },
+        "\u00dd Y\u00ean": {
+            "number_people": "227.160",
+            "area": "240",
+            "distribute": "946"
+        }
+    },
+    "Lai Ch\u00e2u": {
+        "Lai Ch\u00e2u": {
+            "number_people": "55.227 (12/2013)",
+            "area": "70,4",
+            "distribute": "784"
+        },
+        "M\u01b0\u1eddng T\u00e8": {
+            "number_people": "39.921 (11/2012)",
+            "area": "2.679,34",
+            "distribute": "15"
+        },
+        "N\u1eadm Nh\u00f9n": {
+            "number_people": "24.165 (11/2012)",
+            "area": "1.388,0839",
+            "distribute": "17"
+        },
+        "Phong Th\u1ed5": {
+            "number_people": "66.372",
+            "area": "1.028,8",
+            "distribute": "65"
+        },
+        "S\u00ecn H\u1ed3": {
+            "number_people": "74.803 (11/2012)",
+            "area": "1.526,9603",
+            "distribute": "49"
+        },
+        "Tam \u0110\u01b0\u1eddng": {
+            "number_people": "46.767",
+            "area": "684,7",
+            "distribute": "68"
+        },
+        "T\u00e2n Uy\u00ean": {
+            "number_people": "45.162",
+            "area": "903,3",
+            "distribute": "50"
+        },
+        "Than Uy\u00ean": {
+            "number_people": "57.837 (10/2011)",
+            "area": "796,805",
+            "distribute": "73"
+        }
+    },
+    "Y\u00ean B\u00e1i": {
+        "L\u1ee5c Y\u00ean": {
+            "number_people": "102.946",
+            "area": "809,2",
+            "distribute": "127"
+        },
+        "M\u00f9 Cang Ch\u1ea3i": {
+            "number_people": "49.255",
+            "area": "1.202",
+            "distribute": "41"
+        },
+        "Ngh\u0129a L\u1ed9": {
+            "number_people": "68.206",
+            "area": "107,78",
+            "distribute": "633"
+        },
+        "Tr\u1ea1m T\u1ea5u": {
+            "number_people": "26.704",
+            "area": "746,2",
+            "distribute": "36"
+        },
+        "Tr\u1ea5n Y\u00ean": {
+            "number_people": "79.397",
+            "area": "628,6",
+            "distribute": "126"
+        },
+        "V\u0103n Ch\u1ea5n": {
+            "number_people": "144.152",
+            "area": "1.211",
+            "distribute": "119"
+        },
+        "V\u0103n Y\u00ean": {
+            "number_people": "116.000",
+            "area": "1.391,5",
+            "distribute": "83"
+        },
+        "Y\u00ean B\u00e1i": {
+            "number_people": "95.361 (12/2013)",
+            "area": "106,7419",
+            "distribute": "893"
+        },
+        "Y\u00ean B\u00ecnh": {
+            "number_people": "103.776",
+            "area": "773,2",
+            "distribute": "134"
+        }
+    }
+}
