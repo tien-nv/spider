@@ -952,7 +952,7 @@
             "distribute": "699"
         },
         "cho lach": {
-            "number_people": "113.716 ",
+            "number_people": "113.716",
             "area": "168,34",
             "distribute": "676"
         },
@@ -962,12 +962,12 @@
             "distribute": "542"
         },
         "mo cay bac": {
-            "number_people": "124.377 ",
+            "number_people": "124.377",
             "area": "154,64",
             "distribute": "804"
         },
         "mo cay nam": {
-            "number_people": "166.474 ",
+            "number_people": "166.474",
             "area": "219,89",
             "distribute": "757"
         },
@@ -1026,7 +1026,7 @@
             "distribute": "124"
         },
         "bim son": {
-            "number_people": "59.747 ",
+            "number_people": "59.747",
             "area": "66,9",
             "distribute": "893"
         },
@@ -1036,7 +1036,7 @@
             "distribute": "264"
         },
         "dong son": {
-            "number_people": "74.217",
+            "number_people": "74.217*",
             "area": "82,41",
             "distribute": "901"
         },
@@ -1195,7 +1195,7 @@
     },
     "bac lieu": {
         "bac lieu": {
-            "number_people": "190.045 (14)",
+            "number_people": "190.045",
             "area": "175,4",
             "distribute": "1.077"
         },
@@ -1601,7 +1601,7 @@
     },
     "bac ninh": {
         "bac ninh": {
-            "number_people": "188.138 ",
+            "number_people": "188.138",
             "area": "82,6",
             "distribute": "3.301"
         },
@@ -1998,7 +1998,7 @@
             "distribute": "673"
         },
         "long thanh": {
-            "number_people": "225.754 ",
+            "number_people": "225.754",
             "area": "431,0102",
             "distribute": "438"
         },
@@ -2563,7 +2563,7 @@
             "distribute": "883"
         },
         "cai be": {
-            "number_people": "292.180 ()",
+            "number_people": "292.180",
             "area": "256",
             "distribute": "729"
         },
@@ -3103,7 +3103,7 @@
             "distribute": "1.785"
         },
         "thanh tri": {
-            "number_people": "89.091 ",
+            "number_people": "89.091",
             "area": "287,5996",
             "distribute": "310"
         },
@@ -3136,7 +3136,7 @@
         },
         "na hang": {
             "number_people": "41.868",
-            "area": "865,4969 ",
+            "area": "865,4969",
             "distribute": "48"
         },
         "son duong": {
@@ -3319,7 +3319,7 @@
         },
         "muong cha": {
             "number_people": "39.456",
-            "area": "1.199,4209 ",
+            "area": "1.199,4209",
             "distribute": "33"
         },
         "muong lay": {
@@ -3417,7 +3417,7 @@
             "distribute": "1.170"
         },
         "thai binh": {
-            "number_people": "268.482 ",
+            "number_people": "268.482*",
             "area": "67,71",
             "distribute": "3.965"
         },
